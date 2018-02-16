@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "9A4049B2-42EA-471B-996F-A48544B67DF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7.5,
+    "width": 169,
+    "x": 416.5,
+    "y": 201
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DFE4DD72-8655-4309-8025-374F792EC477"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC6CC625-4EAF-4EF6-98F2-8FF37038A200"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F60CC9C-518B-46C5-831E-4B86B5B8EF50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22BC8AC4-CE05-4B85-8CB9-BDEC8624A975"
+    }
+  ],
+  "name": "Menu bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7AD428F2-B44B-49C4-8DE4-293DF2B12018",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

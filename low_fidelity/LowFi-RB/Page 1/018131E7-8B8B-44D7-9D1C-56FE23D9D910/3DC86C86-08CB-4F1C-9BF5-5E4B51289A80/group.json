@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "3DC86C86-08CB-4F1C-9BF5-5E4B51289A80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 890,
+    "width": 601,
+    "x": 1568,
+    "y": 1578
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EE387C9A-6F06-402D-B2DB-60315C4C47D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C7A5B4E-A807-4618-B1D0-5A70327B82F5"
+    },
+    {
+      "class": "text",
+      "id": "0ECC13D2-0F15-49FA-8802-DF8B423A97C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4DE074F-49A8-4467-8A37-A4B77B9E606B"
+    }
+  ],
+  "name": "Facebook Connect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 890,
+            "enabled": 1,
+            "modelID": "constraint_843e722c-a925-4d72-9bcc-28429da0c7cc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 601
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ec1750d9-746f-40b0-8b91-d80ae4a8a0f8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "4653CBB4-4381-4719-AE77-78055FF8F3CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "071F3F24-101A-4D34-B18D-E069E10C5A8F",
+    "height": 26,
+    "width": 27,
+    "x": 123,
+    "y": 103
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BFF5E857-A66A-4F5B-BE89-AC0528134916"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCD41A9D-B072-4E54-8FDA-D2827792DB81"
+    }
+  ],
+  "name": "Assets/Mag_glass",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "837FC2EA-F12F-4BB1-B486-917BA29F0016",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 17.248,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

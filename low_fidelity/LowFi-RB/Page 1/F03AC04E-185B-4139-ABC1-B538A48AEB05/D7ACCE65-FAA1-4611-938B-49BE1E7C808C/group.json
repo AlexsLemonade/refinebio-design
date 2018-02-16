@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "D7ACCE65-FAA1-4611-938B-49BE1E7C808C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A29ADDB-EAB9-4B45-B47B-6632C0299FDA",
+    "height": 358,
+    "width": 708,
+    "x": 344,
+    "y": 1551
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31671CB4-258C-4705-BC71-0AC2DBD3E5DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89EB676B-363C-453C-834D-0703878E09E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F299EA24-2A30-4514-A6E1-349A7496CC78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9570E2C-E0E0-4BB8-A37C-9D1C0C34C9FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7303DAD2-9093-4C78-BBC4-E13A3D036601"
+    }
+  ],
+  "name": "Dot to arrow Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

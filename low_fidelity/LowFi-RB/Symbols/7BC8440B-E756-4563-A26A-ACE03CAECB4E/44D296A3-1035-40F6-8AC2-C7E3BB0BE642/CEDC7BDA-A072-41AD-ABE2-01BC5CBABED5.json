@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CEDC7BDA-A072-41AD-ABE2-01BC5CBABED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 59,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Filter1",
+  "nameIsFixed": true,
+  "originalObjectID": "CEDC7BDA-A072-41AD-ABE2-01BC5CBABED5",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD284233-8EAC-4D5D-AB6E-C52BA8E06989",
+      "overrideName": "2CCDC09E-856C-428F-AA53-108E015BDE95_stringValue",
+      "value": "Organism"
+    }
+  ],
+  "overrides": {
+    "2CCDC09E-856C-428F-AA53-108E015BDE95": "Organism"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CCAEB7D1-56FA-4FC0-9306-6064463BB18D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "98B8590B-84DE-4EA3-8729-5894FD8DED0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3805C80D-77DA-4BCF-B6B3-294C7D208ABA",
+    "height": 140,
+    "width": 458,
+    "x": 188,
+    "y": 3684
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0D12737-081D-44F7-B3F2-9526FF16720A"
+    },
+    {
+      "class": "text",
+      "id": "7099E0B4-D311-4ADB-8B81-90BA77AAD214"
+    }
+  ],
+  "name": "Swipe up btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

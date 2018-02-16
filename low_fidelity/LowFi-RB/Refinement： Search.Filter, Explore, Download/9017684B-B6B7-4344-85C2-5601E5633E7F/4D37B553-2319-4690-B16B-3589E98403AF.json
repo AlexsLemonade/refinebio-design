@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4D37B553-2319-4690-B16B-3589E98403AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 341,
+    "x": 231,
+    "y": 514
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Result_card",
+  "nameIsFixed": false,
+  "originalObjectID": "70F6F2D4-0C68-4B95-9C66-CE692FA99EE6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FF46C3A-2637-4AF5-9AC2-962E785A40FB",
+      "overrideName": "E3B67680-AD07-4ABB-BD59-6523AA000A60/D9C5C5CB-2605-4A0F-BD43-B43401AD8620_stringValue",
+      "value": "Transcription profiling by array of three T-cell populations isolated from the ears of mice treated with Imiquimod"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A11A144-22F8-4F70-8F71-D9662D301802",
+      "overrideName": "2551CAF9-A14C-4414-AE02-D50A6E4264C4/840ACFEE-856A-46EA-8CF4-0420A63BBCD0_stringValue",
+      "value": "The imiquimod model is used to induce the skin production of IL-22 and to characterize the cells that produce IL-22 in the skin after inflammatory stimulus. This experiment is performed on skin of C57Bl/6 mice treated with imiquimod to induce... More"
+    }
+  ],
+  "overrides": {
+    "2551CAF9-A14C-4414-AE02-D50A6E4264C4": {
+      "840ACFEE-856A-46EA-8CF4-0420A63BBCD0": "The imiquimod model is used to induce the skin production of IL-22 and to characterize the cells that produce IL-22 in the skin after inflammatory stimulus. This experiment is performed on skin of C57Bl/6 mice treated with imiquimod to induce... More"
+    },
+    "E3B67680-AD07-4ABB-BD59-6523AA000A60": {
+      "D9C5C5CB-2605-4A0F-BD43-B43401AD8620": "Transcription profiling by array of three T-cell populations isolated from the ears of mice treated with Imiquimod"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D867BC03-E551-42E8-94F1-68A6C81C7BD1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "18FC749D-76C4-48FF-969B-43B9F05EA522",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

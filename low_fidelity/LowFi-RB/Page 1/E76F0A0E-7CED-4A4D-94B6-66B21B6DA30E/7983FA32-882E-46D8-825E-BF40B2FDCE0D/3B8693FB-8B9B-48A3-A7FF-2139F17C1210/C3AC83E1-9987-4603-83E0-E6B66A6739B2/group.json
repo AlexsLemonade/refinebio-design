@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C3AC83E1-9987-4603-83E0-E6B66A6739B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 689,
+    "width": 537,
+    "x": 32,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35776060-73BB-486D-9381-EBBC17C38587"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A8D92DEC-6E11-46EF-80DB-DB17A429F3B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9A6D9BA-CF4A-458D-AE47-6246DC739C50"
+    }
+  ],
+  "name": "Player",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

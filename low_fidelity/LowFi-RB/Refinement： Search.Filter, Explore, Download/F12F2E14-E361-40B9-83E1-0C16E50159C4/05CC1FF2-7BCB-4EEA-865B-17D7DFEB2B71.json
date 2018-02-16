@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "05CC1FF2-7BCB-4EEA-865B-17D7DFEB2B71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 341,
+    "x": 232,
+    "y": 362
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Result_card",
+  "nameIsFixed": false,
+  "originalObjectID": "70F6F2D4-0C68-4B95-9C66-CE692FA99EE6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3B67680-AD07-4ABB-BD59-6523AA000A60/D9C5C5CB-2605-4A0F-BD43-B43401AD8620_stringValue",
+      "value": "GENE EXPRESSION ANALYSIS OF SYNOVIAL BIOPSIES AND PERIPHERAL BLOOD SAMPLES FROM PSORIATIC ARTHRITIS"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2551CAF9-A14C-4414-AE02-D50A6E4264C4/840ACFEE-856A-46EA-8CF4-0420A63BBCD0_stringValue",
+      "value": "Gene expression profiles of synovial biopsies and peripheral blood cells from Psoriatic Arthritis were compared to gene expression profiles of synovial samples and peripheral blood cells from healthy subjects."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F81DD16-8FBD-4D17-A785-53882A0D3CA7",
+      "overrideName": "144F9797-8D29-4C65-9F75-E076DC5121B5_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "144F9797-8D29-4C65-9F75-E076DC5121B5": {
+      "symbolID": ""
+    },
+    "2551CAF9-A14C-4414-AE02-D50A6E4264C4": {
+      "840ACFEE-856A-46EA-8CF4-0420A63BBCD0": "Gene expression profiles of synovial biopsies and peripheral blood cells from Psoriatic Arthritis were compared to gene expression profiles of synovial samples and peripheral blood cells from healthy subjects."
+    },
+    "E3B67680-AD07-4ABB-BD59-6523AA000A60": {
+      "D9C5C5CB-2605-4A0F-BD43-B43401AD8620": "GENE EXPRESSION ANALYSIS OF SYNOVIAL BIOPSIES AND PERIPHERAL BLOOD SAMPLES FROM PSORIATIC ARTHRITIS"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D867BC03-E551-42E8-94F1-68A6C81C7BD1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "0B94A763-FDD3-4187-8D1F-5B4C8C5DA420",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

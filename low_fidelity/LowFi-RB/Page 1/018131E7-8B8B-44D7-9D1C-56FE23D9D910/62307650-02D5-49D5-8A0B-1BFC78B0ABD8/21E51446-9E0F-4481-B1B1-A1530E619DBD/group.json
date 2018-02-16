@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "21E51446-9E0F-4481-B1B1-A1530E619DBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 760,
+    "width": 602,
+    "x": 0,
+    "y": 129.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C3BFE25-8305-496D-9617-6775E0A16A85"
+    },
+    {
+      "class": "group",
+      "id": "7C168B47-A9EC-4206-8338-D054CC95B1EB"
+    },
+    {
+      "class": "group",
+      "id": "AA4B926C-B7E2-42F7-85E7-C8EF0CD3B323"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A9876D7-8FF1-47F9-8D4D-41D44D2FD0B3"
+    },
+    {
+      "class": "group",
+      "id": "6EB647FD-AE92-4E30-A15B-9AE9668B9F29"
+    },
+    {
+      "class": "group",
+      "id": "06FBF748-1B64-494A-8217-8CB8D28BEE6E"
+    }
+  ],
+  "name": "Body",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "31300BC4-C562-4C59-9121-2870F356A497",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 50,
+        "color": {
+          "_class": "color",
+          "alpha": 0.15,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "do_objectID": "C6B2DD2B-995A-4589-BAE4-62817AAC6FFE",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

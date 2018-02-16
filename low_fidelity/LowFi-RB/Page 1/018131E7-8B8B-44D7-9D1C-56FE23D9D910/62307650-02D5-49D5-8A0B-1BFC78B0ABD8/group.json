@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "62307650-02D5-49D5-8A0B-1BFC78B0ABD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CD69C3FC-585D-472D-BEEF-64F70C0BFC91",
+    "height": 890,
+    "width": 602,
+    "x": 2694,
+    "y": 2860
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "21E51446-9E0F-4481-B1B1-A1530E619DBD"
+    },
+    {
+      "class": "text",
+      "id": "6108055F-6DD8-49E9-8B40-347F9A8DB538"
+    }
+  ],
+  "name": "Video Player Votes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "957737C0-2DBF-4BBC-8C07-3B3235E98E29",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 890,
+            "enabled": 1,
+            "modelID": "constraint_e4e1ebe1-7099-4902-9dd6-d21736b5e3e6",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 602
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_32ccf63e-f4b8-430d-9c8f-ff806260480a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
