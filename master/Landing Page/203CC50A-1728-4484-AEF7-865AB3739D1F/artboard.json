@@ -43,6 +43,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -85,7 +86,7 @@
     },
     {
       "class": "text",
-      "id": "A7B49DFE-6241-4706-A3E6-4FD4530905AC"
+      "id": "913F0522-EA84-4B17-B6BA-7726B2C07B58"
     },
     {
       "class": "shapeGroup",
@@ -96,8 +97,15 @@
       "id": "C6FD46C3-7200-4C39-B0FA-CB6623C5FD1A"
     }
   ],
-  "name": "Mobile Copy 2",
-  "nameIsFixed": false,
+  "name": "Mobile_ModalSuccess",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

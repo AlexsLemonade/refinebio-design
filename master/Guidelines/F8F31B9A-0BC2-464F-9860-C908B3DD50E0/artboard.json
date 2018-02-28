@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1906,
+    "height": 2004,
     "width": 436,
     "x": -456,
     "y": 50
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,6 +37,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -56,6 +57,10 @@
     {
       "class": "group",
       "id": "703A77A7-E429-4D67-B3A4-A7BF0277A1EF"
+    },
+    {
+      "class": "text",
+      "id": "D1ED1FDE-D772-4D0A-9D5C-4660EF07C5D2"
     }
   ],
   "name": "Color",

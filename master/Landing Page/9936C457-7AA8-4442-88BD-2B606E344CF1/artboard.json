@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 6530,
-    "y": -1011
+    "x": 6528,
+    "y": -1015
   },
   "grid": {
     "_class": "simpleGrid",
@@ -54,6 +54,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -67,16 +68,52 @@
       "id": "BEB65796-1BE6-48B2-88DC-5150D8DF033F"
     },
     {
-      "class": "bitmap",
-      "id": "37E2E13C-0F28-4BE9-956F-3A9A8D416D88"
+      "class": "symbolInstance",
+      "id": "EBA6DB14-95B6-44CE-B47F-40FA4C819D15"
     },
     {
       "class": "shapeGroup",
       "id": "77840E17-7218-48F4-B937-BCDB8D5A734A"
     },
     {
-      "class": "group",
-      "id": "65B37008-245A-4290-8C97-B6A1EB56AAEA"
+      "class": "text",
+      "id": "E9E0D2FF-0CF1-4936-9FBD-9FE5C87FC8BB"
+    },
+    {
+      "class": "text",
+      "id": "1790B8F6-8420-4D34-86C4-E753F4465971"
+    },
+    {
+      "class": "text",
+      "id": "EDA5D828-BA66-457F-A63A-C4316C1B8EDD"
+    },
+    {
+      "class": "text",
+      "id": "F0209124-2D27-4682-A90F-33491A5C4BCA"
+    },
+    {
+      "class": "text",
+      "id": "CCA1A894-2E37-4571-A6BC-0AA597383E9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E30E514-3374-4E44-9DBF-5C5D6BD52B87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49970B9E-DBB6-4752-B57D-F4A27F94D598"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4190CA28-128F-425A-A5B2-8E8D22C28373"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25A57502-C918-4ACC-9A7E-BBB9F2C38958"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F089E6C1-10D0-4423-87BC-0E20B92D731C"
     },
     {
       "class": "shapeGroup",
@@ -117,10 +154,21 @@
     {
       "class": "text",
       "id": "5449514E-702B-4345-B8E0-CEDCEA9AD7CA"
+    },
+    {
+      "class": "slice",
+      "id": "BDFD6C56-B589-4715-A70B-C5EFAF2E575D"
     }
   ],
-  "name": "FactoryLanding Copy 3",
+  "name": "FactoryLanding",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -131,6 +179,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,6 +54,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -67,8 +68,8 @@
       "id": "A83BBBDD-9768-4376-8435-E98353DFA695"
     },
     {
-      "class": "bitmap",
-      "id": "AFFA2BA2-47E3-40A8-8FAC-B100F57B44EF"
+      "class": "symbolInstance",
+      "id": "F484E0C7-5D3F-44DB-BA7E-46DEED534B2F"
     },
     {
       "class": "shapeGroup",
@@ -108,15 +109,15 @@
     },
     {
       "class": "text",
-      "id": "8C3FD40E-EACA-4ABE-B127-205F547679CF"
-    },
-    {
-      "class": "text",
       "id": "FB171949-3188-473A-8481-B99B5B20AB64"
     },
     {
       "class": "text",
       "id": "18C8A9D3-4403-46B6-AA83-D1649157B2B8"
+    },
+    {
+      "class": "text",
+      "id": "E0F8D8E3-DDF6-4767-B29C-C91629CE3A22"
     },
     {
       "class": "shapeGroup",
@@ -127,8 +128,15 @@
       "id": "AD0E4C7F-D216-4AB0-90BF-D04837FC349C"
     }
   ],
-  "name": "FactoryLanding Copy 2",
+  "name": "FactoryLanding-Success",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -51,6 +51,13 @@
         "blue": 0.9490196078431372,
         "green": 0.9490196078431372,
         "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1568627450980392,
+        "green": 0.2313725490196078,
+        "red": 0.8588235294117647
       }
     ],
     "gradients": [
@@ -59,7 +66,6 @@
         "elipseLength": 0,
         "from": "{0.4936755588169755, 0}",
         "gradientType": 0,
-        "shouldSmoothenOpacity": false,
         "stops": [
           {
             "_class": "gradientStop",
@@ -97,8 +103,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "7DD6922C-1BDE-4697-9C44-425E71C1046D",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -107,17 +111,19 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "Guidelines",
-    "Landing Page"
+    "MidFi Iteration",
+    "Landing Page",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13518497,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
     }
   }
 }

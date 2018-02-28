@@ -54,6 +54,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -67,8 +68,8 @@
       "id": "1CB18D30-F265-4908-A2DC-1FBDA967CC8E"
     },
     {
-      "class": "bitmap",
-      "id": "B972ABF3-98AD-4459-96F5-639E22F8D9C6"
+      "class": "symbolInstance",
+      "id": "18B2E898-F26C-4C35-AE9D-A3CBCBB331DC"
     },
     {
       "class": "shapeGroup",
@@ -108,19 +109,26 @@
     },
     {
       "class": "text",
-      "id": "978FDEB5-84EC-4142-8481-C09282284736"
-    },
-    {
-      "class": "text",
       "id": "EA8AAA39-47F6-42D1-B4EE-C33009036BA1"
     },
     {
       "class": "text",
       "id": "18FB277C-A5B3-40CE-A0B7-BEC3BD08DE54"
+    },
+    {
+      "class": "text",
+      "id": "47081FD8-C8FA-4569-BEB2-449625EDF6E2"
     }
   ],
-  "name": "FactoryLanding",
+  "name": "FactoryLanding_OnHover",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
