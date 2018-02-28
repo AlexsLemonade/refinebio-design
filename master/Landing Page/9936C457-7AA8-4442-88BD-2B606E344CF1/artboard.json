@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,16 +57,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "69D6EE02-56EC-48C4-BF5D-6F90CBAD8F37"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BEB65796-1BE6-48B2-88DC-5150D8DF033F"
-    },
     {
       "class": "symbolInstance",
       "id": "EBA6DB14-95B6-44CE-B47F-40FA4C819D15"
@@ -74,14 +66,6 @@
     {
       "class": "shapeGroup",
       "id": "77840E17-7218-48F4-B937-BCDB8D5A734A"
-    },
-    {
-      "class": "text",
-      "id": "E9E0D2FF-0CF1-4936-9FBD-9FE5C87FC8BB"
-    },
-    {
-      "class": "text",
-      "id": "1790B8F6-8420-4D34-86C4-E753F4465971"
     },
     {
       "class": "text",
@@ -154,10 +138,6 @@
     {
       "class": "text",
       "id": "5449514E-702B-4345-B8E0-CEDCEA9AD7CA"
-    },
-    {
-      "class": "slice",
-      "id": "BDFD6C56-B589-4715-A70B-C5EFAF2E575D"
     }
   ],
   "name": "FactoryLanding",
