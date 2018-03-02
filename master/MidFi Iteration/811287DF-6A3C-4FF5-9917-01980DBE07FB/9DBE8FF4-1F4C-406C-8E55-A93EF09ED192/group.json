@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 151,
+    "height": 56,
+    "width": 238,
     "x": 80,
     "y": 393
   },
@@ -23,23 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E3C58DE-25DC-4E7D-8913-1D17AB061870"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4CC541D-3E7C-4B28-8299-303B4EA90E0D"
+    },
     {
       "class": "text",
       "id": "1D244F39-AE49-47F7-A200-55D2885D641C"
-    },
-    {
-      "class": "group",
-      "id": "D9944FC0-E7AA-4CC7-882A-75CB5D72B8EB"
-    },
-    {
-      "class": "group",
-      "id": "CAAED570-6CA6-4D0C-98BF-AD445E75D8E6"
-    },
-    {
-      "class": "group",
-      "id": "8E2F3B7E-EF72-4828-8776-4DBF3476F9DC"
     }
   ],
   "name": "Platform-filter",
