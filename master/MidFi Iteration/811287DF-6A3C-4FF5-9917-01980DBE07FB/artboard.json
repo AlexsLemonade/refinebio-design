@@ -54,6 +54,10 @@
       "id": "4E27425A-1578-43A9-B840-977337084C5F"
     },
     {
+      "class": "text",
+      "id": "9803799B-7152-4230-A9C9-6E81A8314FA4"
+    },
+    {
       "class": "shapeGroup",
       "id": "5F73BF82-0867-4829-B81F-105F834D038E"
     },
@@ -80,6 +84,10 @@
     {
       "class": "symbolInstance",
       "id": "DB0B0C21-13C2-40BE-BC4A-973718369806"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "688DB302-A0FB-4D21-880E-C8BD8A0180D2"
     },
     {
       "class": "symbolInstance",
@@ -131,6 +139,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

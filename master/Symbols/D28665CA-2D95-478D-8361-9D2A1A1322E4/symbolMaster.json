@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 65,
   "do_objectID": "D28665CA-2D95-478D-8361-9D2A1A1322E4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 32,
+    "height": 55,
+    "width": 24,
     "x": 818,
-    "y": 124
+    "y": 106
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "1E857D74-ECD5-4D50-8377-493B20431DAE"
+      "class": "bitmap",
+      "id": "FB39C304-9951-428C-8234-CE7933C5705C"
     }
   ],
   "name": "badges/ccdl_processed",

@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -58,15 +58,11 @@
     },
     {
       "class": "text",
-      "id": "C08D4F12-4D26-47D0-B5C3-EA12EE27D168"
+      "id": "3FE485FF-95EC-44B2-87BD-65D45A22ED0C"
     },
     {
       "class": "text",
-      "id": "48AA67F9-EF62-425B-B75A-4FF85294C995"
-    },
-    {
-      "class": "text",
-      "id": "66A5E693-5CE9-46C2-9F04-195E4DD48667"
+      "id": "A7875C19-E999-46D3-8F0C-A95B1EA99E53"
     },
     {
       "class": "shapeGroup",
@@ -111,6 +107,10 @@
     {
       "class": "symbolInstance",
       "id": "F1C373A6-8F2C-4997-8ED6-0BF79E16C1B6"
+    },
+    {
+      "class": "text",
+      "id": "CAE564EB-6603-4611-B4B4-9EA42556DFD8"
     }
   ],
   "name": "result_details_experiment_sample_expanded",
@@ -151,6 +151,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

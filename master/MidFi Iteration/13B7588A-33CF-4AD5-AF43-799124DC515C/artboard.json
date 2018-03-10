@@ -25,8 +25,8 @@
     "x": 8697,
     "y": -352
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -74,6 +74,34 @@
     },
     {
       "class": "shapeGroup",
+      "id": "A0537057-FFF1-4916-997B-4D8FD4360698"
+    },
+    {
+      "class": "group",
+      "id": "8061B451-9DB1-490C-BB1D-7C1E0755EEB0"
+    },
+    {
+      "class": "text",
+      "id": "2B19BD77-1D0D-470F-B0E9-1FE130D04031"
+    },
+    {
+      "class": "text",
+      "id": "10994D46-E504-45DC-A132-21DFAA738865"
+    },
+    {
+      "class": "text",
+      "id": "4C059BCB-8F52-43F2-89B4-E405EB820406"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21E8B821-E838-441E-BC34-8D40755731D2"
+    },
+    {
+      "class": "text",
+      "id": "48F7FD6D-BE9F-41B0-BB11-0D90DA9470A9"
+    },
+    {
+      "class": "shapeGroup",
       "id": "DA543B41-3420-4C02-AEAB-F763E225F221"
     },
     {
@@ -81,8 +109,28 @@
       "id": "1D2F0BE7-7BFB-4828-9A01-D5884F8C5737"
     },
     {
+      "class": "text",
+      "id": "CF92711F-0DA6-4ACF-872B-0B9AC78A793C"
+    },
+    {
       "class": "shapeGroup",
       "id": "09D6C318-4509-4461-A8BA-AFBBBA42B4EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "097712EF-0A20-4DA0-A019-B7A256464B9B"
+    },
+    {
+      "class": "text",
+      "id": "3C43B999-5544-456F-8448-AFD5F2DDAC15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CE8018E-D31B-4979-ADBE-6EEDA03343C8"
+    },
+    {
+      "class": "text",
+      "id": "E07AD716-F929-444A-8936-C6ED29911D71"
     }
   ],
   "name": "download_queue_pipeline_modal",
@@ -122,6 +170,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

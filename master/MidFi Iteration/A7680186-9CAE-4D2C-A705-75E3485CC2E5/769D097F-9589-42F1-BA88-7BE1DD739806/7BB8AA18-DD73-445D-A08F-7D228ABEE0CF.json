@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7BB8AA18-DD73-445D-A08F-7D228ABEE0CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46DA57FC-93FE-4DD6-B757-DA518C0C4C99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DA9CA82-43E9-44E2-9874-12A481C5D5F7",
+    "height": 44,
+    "width": 920,
+    "x": 16,
+    "y": 56
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "results/badge-bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6DF8B9B-B3B1-4BD9-AA1E-395BB86C6928",
+      "overrideName": "8322E965-6713-4167-8B22-E2C3167C1B45/98DD550D-EF58-4BE1-994D-4F030744D83A_stringValue",
+      "value": "E-GEOD-3446"
+    }
+  ],
+  "overrides": {
+    "8322E965-6713-4167-8B22-E2C3167C1B45": {
+      "98DD550D-EF58-4BE1-994D-4F030744D83A": "E-GEOD-3446"
+    }
+  },
+  "resizingConstraint": 23,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AA9302E-ADDF-4E65-8829-31A10DF79B28",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D46CD3C6-EE20-4362-9E5B-C2558617312C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

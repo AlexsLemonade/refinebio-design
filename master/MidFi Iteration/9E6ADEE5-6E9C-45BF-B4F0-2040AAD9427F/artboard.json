@@ -26,7 +26,7 @@
     "y": -352
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,6 +55,10 @@
     {
       "class": "symbolInstance",
       "id": "FD2108DE-8C89-4E99-BF91-1B960241CF7D"
+    },
+    {
+      "class": "text",
+      "id": "2A505657-774A-4CE5-93AF-2E04C1163458"
     }
   ],
   "name": "home",
@@ -94,6 +98,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 677,
+    "height": 720,
     "width": 952,
     "x": 0,
     "y": 0
@@ -44,6 +44,18 @@
     {
       "class": "symbolInstance",
       "id": "EA851DF6-4D55-4694-8993-FF485D0D87CC"
+    },
+    {
+      "class": "text",
+      "id": "31225E6E-E5E2-49EB-9B9A-9E7EDD2AA2FF"
+    },
+    {
+      "class": "text",
+      "id": "998D4D2F-F03D-421A-8F7B-05DFC954AA20"
+    },
+    {
+      "class": "text",
+      "id": "568A970E-D3BC-4C36-A253-F801FD811E48"
     }
   ],
   "name": "search-result",
