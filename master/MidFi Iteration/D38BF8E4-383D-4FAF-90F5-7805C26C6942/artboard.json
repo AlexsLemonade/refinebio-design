@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9490196078431372,
-    "green": 0.9490196078431372,
-    "red": 0.9490196078431372
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "D38BF8E4-383D-4FAF-90F5-7805C26C6942",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "x": 7157,
     "y": -352
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -111,6 +111,14 @@
     {
       "class": "text",
       "id": "6C26C31C-8AC1-4913-A07F-CCE79C98C8A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEB255D0-93E6-430F-9C55-B44E34393E9D"
+    },
+    {
+      "class": "text",
+      "id": "F6FF61D5-7B4C-476C-B8CD-05F83BF1B8CE"
     }
   ],
   "name": "download_queue",

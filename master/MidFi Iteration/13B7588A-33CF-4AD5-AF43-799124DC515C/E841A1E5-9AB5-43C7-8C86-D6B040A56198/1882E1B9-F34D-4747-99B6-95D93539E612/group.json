@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "1882E1B9-F34D-4747-99B6-95D93539E612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F182BA7C-0C88-4318-A61E-7FB7BADE5D6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFA9AB55-EC2A-4061-A8AD-3C6E93104DD0",
+    "height": 24,
+    "width": 182,
+    "x": 1,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ED5F11BE-4035-4B2A-B2F9-55D7B828A688"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18A562CB-208E-4DDA-AF5D-6D0F8B881BB5"
+    }
+  ],
+  "name": "Sample Name Link",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78A1693A-5F58-4021-8636-7CE9C2323347",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 124,
   "do_objectID": "D2D047D9-371D-466E-B9C8-F7C6F0D4F656",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 1224,
+    "width": 1311,
     "x": 1082,
     "y": 1
   },
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -51,6 +51,10 @@
     {
       "class": "symbolInstance",
       "id": "F7BC1545-1D40-4A68-A1AF-E1EBC34E7F65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55CB595B-AB26-4310-9BA6-F107BF9B29E7"
     }
   ],
   "name": "Header",

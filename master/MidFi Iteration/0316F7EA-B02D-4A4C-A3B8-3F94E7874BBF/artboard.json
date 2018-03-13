@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9490196078431372,
-    "do_objectID": "2EBA4A3B-F568-439B-A4AE-B81452A425DC",
-    "green": 0.9490196078431372,
-    "red": 0.9490196078431372
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "0316F7EA-B02D-4A4C-A3B8-3F94E7874BBF",
   "exportOptions": {
@@ -28,7 +27,7 @@
     "x": 5611,
     "y": -352
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -111,6 +110,10 @@
     {
       "class": "text",
       "id": "CAE564EB-6603-4611-B4B4-9EA42556DFD8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1885FA46-EC7C-4741-B20D-37F09DEBDCF5"
     }
   ],
   "name": "result_details_experiment_sample_expanded",

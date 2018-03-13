@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9490196078431372,
-    "green": 0.9490196078431372,
-    "red": 0.9490196078431372
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "B0B3C00D-CBC0-4C5B-A331-3539083AC4CC",
   "exportOptions": {
@@ -29,12 +29,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1591,
+    "height": 1415,
     "width": 1440,
     "x": 10237,
     "y": -352
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -186,7 +186,7 @@
       "id": "D9AC1BA7-8A5C-4D67-A004-E705F76D2E88"
     }
   ],
-  "name": "result_details_pipeline_pipeline",
+  "name": "result_details_pipeline_horizontal_pipeline",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
