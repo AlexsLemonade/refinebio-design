@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 292,
+  "changeIdentifier": 393,
   "do_objectID": "8726E683-55DF-4D67-9B4F-189FE60B6472",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 24,
     "width": 32,
     "x": 3675,
     "y": 976
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "76EDAB66-65C4-4C8D-B909-B2779B6638A6"
+      "class": "symbolInstance",
+      "id": "C4892F94-5F8F-4011-A23C-B67842F6B958"
     },
     {
       "class": "shapeGroup",
@@ -57,7 +57,7 @@
       "id": "A9EC6F61-7F21-42B5-9A01-6E19B8330E3B"
     }
   ],
-  "name": "icons/cart-badge",
+  "name": "icons/cart-badge-double",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
