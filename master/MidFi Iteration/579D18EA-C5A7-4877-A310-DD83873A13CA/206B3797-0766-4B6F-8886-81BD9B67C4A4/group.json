@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "206B3797-0766-4B6F-8886-81BD9B67C4A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "859AB18F-808D-49BE-BD88-097C2E60B40B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF58D282-8A98-4C59-B77A-E160F678022E",
+    "height": 120,
+    "width": 99,
+    "x": 80,
+    "y": 153
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "85F4A834-5DF4-4C6C-B9A0-4AE179F0E4D9"
+    },
+    {
+      "class": "group",
+      "id": "F21A1AE3-7441-4633-989F-4C4952229FFC"
+    },
+    {
+      "class": "group",
+      "id": "F4090BCB-5926-4254-BB65-1D522DD9723A"
+    },
+    {
+      "class": "group",
+      "id": "DA8530B6-1A3A-4658-8748-BD5AD46071E2"
+    }
+  ],
+  "name": "Organism-filter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0741CC45-A1DE-4B39-BE04-52B829C7DE69",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

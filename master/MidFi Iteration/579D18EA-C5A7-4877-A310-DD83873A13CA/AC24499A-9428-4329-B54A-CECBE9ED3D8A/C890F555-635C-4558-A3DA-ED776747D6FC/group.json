@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "C890F555-635C-4558-A3DA-ED776747D6FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8450671E-7FDB-4353-8FBA-311ABEF26C0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "448568A1-21E4-4474-A274-40CD7FF6C07A",
+    "height": 24,
+    "width": 96,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "916F6698-DFEC-4DF0-ADCD-6A4846429109"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3E602D1-1DC3-4450-AF09-1B0F1556792E"
+    }
+  ],
+  "name": "RNA-checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "446AD74F-6486-46C7-BB39-51FFC5B637F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

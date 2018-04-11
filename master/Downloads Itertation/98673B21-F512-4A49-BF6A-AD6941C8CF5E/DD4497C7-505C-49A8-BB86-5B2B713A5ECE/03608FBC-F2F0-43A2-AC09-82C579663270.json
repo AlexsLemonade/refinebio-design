@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "03608FBC-F2F0-43A2-AC09-82C579663270",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA647E3E-5419-4656-A13D-FFE0B2FE6C55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7535545C-9F07-4CBF-850B-5A8F5FEAA81D",
+    "height": 24,
+    "width": 74,
+    "x": 0,
+    "y": 3
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46DF8968-6346-467E-A0A9-A082E0193DEC",
+      "overrideName": "10939DF0-24E1-4B13-A77A-F96B15207912_stringValue",
+      "value": "Aggregate"
+    }
+  ],
+  "overrides": {
+    "10939DF0-24E1-4B13-A77A-F96B15207912": "Aggregate"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12EC3F3A-656F-4D2C-8E86-A6233D1D3B9C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "080AAB28-8AD3-41E7-A529-755DE8D4AD04",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

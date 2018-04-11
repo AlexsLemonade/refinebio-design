@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 6,
   "do_objectID": "DC948CC3-E5CA-4BAE-B71F-EE2AC0A93998",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3551,
-    "y": 124
+    "x": 0,
+    "y": 1882
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "D4EA9DD0-48DD-4775-8048-E8206A2FCB49",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

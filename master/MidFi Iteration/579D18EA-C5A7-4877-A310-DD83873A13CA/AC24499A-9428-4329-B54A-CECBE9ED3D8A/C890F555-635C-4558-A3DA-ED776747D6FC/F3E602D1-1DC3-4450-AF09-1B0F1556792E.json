@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F3E602D1-1DC3-4450-AF09-1B0F1556792E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DE3F702-C275-46AD-9257-4DB5C553D37D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFD334E2-384C-4736-A1AE-345FFC5E18E0",
+    "height": 24,
+    "width": 64,
+    "x": 32,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/label",
+  "nameIsFixed": false,
+  "originalObjectID": "2E6A6BA6-D782-4A02-8842-769A9883CAC4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "10939DF0-24E1-4B13-A77A-F96B15207912_stringValue",
+      "value": "RNA-seq"
+    }
+  ],
+  "overrides": {
+    "10939DF0-24E1-4B13-A77A-F96B15207912": "RNA-seq"
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21E6CDCF-5C79-457D-86BA-9FECAB5937DC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "080AAB28-8AD3-41E7-A529-755DE8D4AD04",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

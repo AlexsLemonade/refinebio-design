@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4368EEBA-5B4F-4E72-87C0-EB3328E2C5E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "449B103D-DB6F-478F-9912-BBAEBA648D48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B2163AC-A664-48EB-9CE3-6762E7EDAD4D",
+    "height": 24,
+    "width": 53,
+    "x": 32,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/label",
+  "nameIsFixed": false,
+  "originalObjectID": "2E6A6BA6-D782-4A02-8842-769A9883CAC4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "10939DF0-24E1-4B13-A77A-F96B15207912_stringValue",
+      "value": "Mouse"
+    }
+  ],
+  "overrides": {
+    "10939DF0-24E1-4B13-A77A-F96B15207912": "Mouse"
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18987337-710C-4FF1-A805-E1DD66DAAF06",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "080AAB28-8AD3-41E7-A529-755DE8D4AD04",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
