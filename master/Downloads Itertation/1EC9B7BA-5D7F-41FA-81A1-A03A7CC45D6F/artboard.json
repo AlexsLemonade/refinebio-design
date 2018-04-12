@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1876,
+    "height": 2915,
     "width": 1440,
     "x": 2531,
     "y": 780
@@ -43,7 +43,9 @@
       80,
       1360,
       1257,
-      184
+      184,
+      226,
+      1217
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -92,10 +94,6 @@
       "id": "0268B3E0-60E5-4207-9939-40AC80B4F7E6"
     },
     {
-      "class": "shapeGroup",
-      "id": "AB4BAF93-E8EC-4FE7-AA32-63725D0B24CA"
-    },
-    {
       "class": "group",
       "id": "290CE4F9-E9CE-4843-81AD-9F944E741C33"
     },
@@ -106,6 +104,14 @@
     {
       "class": "symbolInstance",
       "id": "8A99EA3D-4ED7-4FA3-B146-A7FA323438E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79C8B008-0C5B-41F9-AA89-344DE45978F4"
+    },
+    {
+      "class": "group",
+      "id": "E94C75B1-A701-427A-965D-96906BB19508"
     }
   ],
   "name": "download_queue_whole_experiment copy",
