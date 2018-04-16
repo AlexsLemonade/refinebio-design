@@ -15,17 +15,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F7D5C377-D4CC-4559-9FEB-F4105A3C16CA",
-    "height": 117,
-    "width": 992,
-    "x": 224,
-    "y": 635
+    "height": 126,
+    "width": 1041,
+    "x": 200,
+    "y": 615
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -41,10 +41,6 @@
     },
     {
       "class": "text",
-      "id": "6250027A-477D-44E2-9C78-FABD01221016"
-    },
-    {
-      "class": "text",
       "id": "94CFEBDD-C247-4006-A4A9-26E118368946"
     },
     {
@@ -54,6 +50,14 @@
     {
       "class": "text",
       "id": "53CF9ABD-EB79-4D9B-970C-E040EC887829"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F92907B-CCC8-45FA-91F8-4870A46B2E81"
+    },
+    {
+      "class": "text",
+      "id": "6D3A53AC-F5B9-4779-B87E-BD33F7E7270A"
     }
   ],
   "name": "Human Samples",

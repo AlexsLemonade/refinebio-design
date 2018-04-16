@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 327,
-    "width": 1075,
-    "x": 183,
-    "y": 285
+    "height": 338,
+    "width": 1073,
+    "x": 184,
+    "y": 261
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -31,23 +31,19 @@
     },
     {
       "class": "text",
-      "id": "2A0E3FBF-1B9A-4137-9006-E000D904E2AA"
-    },
-    {
-      "class": "text",
-      "id": "21B935C5-4F9E-4916-9F10-714FAB4CF3D8"
-    },
-    {
-      "class": "text",
-      "id": "8E0B4474-D59B-4973-AE55-ACFA5A136247"
-    },
-    {
-      "class": "text",
       "id": "C59E8B1C-2EC0-4A0D-9459-3A90CF4D48B0"
     },
     {
+      "class": "group",
+      "id": "E94C75B1-A701-427A-965D-96906BB19508"
+    },
+    {
       "class": "text",
-      "id": "A2E9B935-C2D7-4ADA-861F-568B2A4AAA04"
+      "id": "EE5D33BC-E099-4FB2-B239-E43F8E0AB803"
+    },
+    {
+      "class": "group",
+      "id": "F8F47519-E7BB-4287-B6D2-EF3891DCC5B7"
     }
   ],
   "name": "Summary",

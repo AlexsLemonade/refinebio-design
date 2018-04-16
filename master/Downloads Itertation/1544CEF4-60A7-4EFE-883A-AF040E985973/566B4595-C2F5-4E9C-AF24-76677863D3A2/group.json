@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 520,
+    "height": 568,
     "width": 1087,
     "x": 177,
-    "y": 185
+    "y": 137
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -128,6 +128,18 @@
     {
       "class": "symbolInstance",
       "id": "5F711CDA-1232-4775-8F5B-3848C0048598"
+    },
+    {
+      "class": "group",
+      "id": "17416250-15EC-4EA6-8538-1F3983D56B45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7BBE059-00D7-48FA-A6DB-26EE8EE7B80E"
+    },
+    {
+      "class": "group",
+      "id": "3E1C1531-581F-4EC0-9F0D-60789485E73C"
     }
   ],
   "name": "Table",

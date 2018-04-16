@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2915,
+    "height": 2897,
     "width": 1440,
     "x": 2531,
-    "y": 780
+    "y": 798
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -75,10 +75,6 @@
     },
     {
       "class": "group",
-      "id": "6308EB25-7699-4368-9F11-E69AEF622AA5"
-    },
-    {
-      "class": "group",
       "id": "74C4F7D9-68BB-4901-8BDF-C567FFBA5575"
     },
     {
@@ -111,7 +107,7 @@
     },
     {
       "class": "group",
-      "id": "E94C75B1-A701-427A-965D-96906BB19508"
+      "id": "7EFCB311-FCC2-457E-B593-7C112200BEED"
     }
   ],
   "name": "download_queue_whole_experiment copy",
@@ -162,7 +158,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      24
+      24,
+      902
     ]
   }
 }

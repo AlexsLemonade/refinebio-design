@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 97,
-    "x": 454,
-    "y": 114
+    "x": 453.0000000000001,
+    "y": 116
   },
   "glyphBounds": "{{0, 6}, {97, 15}}",
   "isFlippedHorizontal": false,
@@ -64,12 +64,15 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"http:\\/\\/0.0.0.0:8000\\/experiments\\/\",\"paths\":[],\"path\":\"B6D31DB6-A322-4DB5-B3E8-7371AC937061.json\"}"
     }
   }
 }

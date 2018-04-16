@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "49EB893E-85D0-4BB3-8287-8502436E8367",
-    "height": 3,
-    "width": 989,
-    "x": 0,
+    "height": 2,
+    "width": 990.0000000000003,
+    "x": 3.410605131648481e-13,
     "y": 0
   },
   "isClosed": false,
@@ -38,22 +38,22 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{-0.042467138523761383, 0.66666666666666663}",
+        "curveFrom": "{-0.042345313601127817, 1}",
         "curveMode": 1,
-        "curveTo": "{-0.042467138523761383, 0.66666666666666663}",
+        "curveTo": "{-0.042345313601127817, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.00050556117290192126, 0.5}"
+        "point": "{0, 0.5}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{-0.041456016177957536, 1}",
+        "curveFrom": "{-0.041337091848720024, 1.5}",
         "curveMode": 1,
-        "curveTo": "{-0.041456016177957536, 1}",
+        "curveTo": "{-0.041337091848720024, 1.5}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.9994944388270981, 0.5}"
+        "point": "{1, 0.5}"
       }
     ]
   },
@@ -62,22 +62,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.042467138523761383, 0.66666666666666663}",
+      "curveFrom": "{-0.042345313601127817, 1}",
       "curveMode": 1,
-      "curveTo": "{-0.042467138523761383, 0.66666666666666663}",
+      "curveTo": "{-0.042345313601127817, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.00050556117290192126, 0.5}"
+      "point": "{0, 0.5}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.041456016177957536, 1}",
+      "curveFrom": "{-0.041337091848720024, 1.5}",
       "curveMode": 1,
-      "curveTo": "{-0.041456016177957536, 1}",
+      "curveTo": "{-0.041337091848720024, 1.5}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.9994944388270981, 0.5}"
+      "point": "{1, 0.5}"
     }
   ],
   "resizingConstraint": 63,

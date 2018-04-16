@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3FE7EF49-3E52-48FB-9BF3-A88B470C79D7",
-    "height": 328,
-    "width": 1024,
-    "x": 208,
-    "y": 260
+    "height": 305,
+    "width": 1074,
+    "x": 184,
+    "y": 248
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,16 +32,8 @@
       "id": "E8BAF5E5-CE91-4BF8-8D7B-00694A3DE95E"
     },
     {
-      "class": "text",
-      "id": "A686E178-EFC1-4733-8FD6-F20B7058E7B9"
-    },
-    {
-      "class": "text",
-      "id": "623AC85E-83D3-402D-A8B3-20D447D64768"
-    },
-    {
-      "class": "text",
-      "id": "23CC5488-9ABF-4ECE-81F5-F3FF4D964926"
+      "class": "shapeGroup",
+      "id": "9F25066B-DA73-4DB9-8E44-3699DAC9582C"
     },
     {
       "class": "group",
@@ -54,6 +46,10 @@
     {
       "class": "text",
       "id": "7744F878-8DF2-4D6A-9AE4-816851AC5C5E"
+    },
+    {
+      "class": "group",
+      "id": "F17E8561-C48C-456B-80C7-43BFCE7102DF"
     }
   ],
   "name": "Summary",
