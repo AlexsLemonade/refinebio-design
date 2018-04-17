@@ -13,21 +13,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 338,
-    "width": 1073,
-    "x": 184,
-    "y": 261
+    "height": 344,
+    "width": 1075,
+    "x": 182,
+    "y": 270
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "47353D34-16CB-456F-B379-3FEDD06A580C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F67EFC45-B013-41DD-86EE-24E137681FA0"
     },
     {
       "class": "text",
@@ -40,10 +44,6 @@
     {
       "class": "text",
       "id": "EE5D33BC-E099-4FB2-B239-E43F8E0AB803"
-    },
-    {
-      "class": "group",
-      "id": "F8F47519-E7BB-4287-B6D2-EF3891DCC5B7"
     }
   ],
   "name": "Summary",

@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 89,
-    "width": 196,
+    "height": 91,
+    "width": 235,
     "x": 0,
-    "y": 1
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -31,15 +31,11 @@
     },
     {
       "class": "text",
-      "id": "78B42D92-AB6F-4877-9182-8DF7922E1859"
+      "id": "95D6D5F4-5F46-4AD5-A4F5-681ABD14346A"
     },
     {
-      "class": "text",
-      "id": "15867589-C3A4-41BF-8278-B251B62AE528"
-    },
-    {
-      "class": "text",
-      "id": "A677F485-3149-45C6-A012-D8B837B5F7DA"
+      "class": "group",
+      "id": "6DBF924C-0709-4263-8F7C-40CBF172D88D"
     }
   ],
   "name": "gene-expression-matrix-summary",

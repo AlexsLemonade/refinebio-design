@@ -15,17 +15,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3FE7EF49-3E52-48FB-9BF3-A88B470C79D7",
-    "height": 305,
-    "width": 1074,
+    "height": 353,
+    "width": 1075,
     "x": 184,
-    "y": 248
+    "y": 236
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,6 +34,10 @@
     {
       "class": "shapeGroup",
       "id": "9F25066B-DA73-4DB9-8E44-3699DAC9582C"
+    },
+    {
+      "class": "group",
+      "id": "F17E8561-C48C-456B-80C7-43BFCE7102DF"
     },
     {
       "class": "group",
@@ -46,10 +50,6 @@
     {
       "class": "text",
       "id": "7744F878-8DF2-4D6A-9AE4-816851AC5C5E"
-    },
-    {
-      "class": "group",
-      "id": "F17E8561-C48C-456B-80C7-43BFCE7102DF"
     }
   ],
   "name": "Summary",

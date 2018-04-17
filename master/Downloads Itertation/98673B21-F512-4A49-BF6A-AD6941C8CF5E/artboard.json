@@ -32,10 +32,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C3A97E40-8BD3-4D04-8A10-48042A6099E5",
-    "height": 1051,
+    "height": 1099,
     "width": 1440,
     "x": 991,
-    "y": 1959
+    "y": 1911
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -100,10 +100,6 @@
       "id": "8743DFC5-CB3B-4958-A187-18B19749E60B"
     },
     {
-      "class": "text",
-      "id": "A806AFDD-5DF0-4FB6-B318-95C5B2E30930"
-    },
-    {
       "class": "shapeGroup",
       "id": "49200770-4EE7-46B3-9F74-3689C1EFEC5F"
     },
@@ -118,6 +114,14 @@
     {
       "class": "symbolInstance",
       "id": "50CCA4A7-CCDA-4C03-9BC2-AEA0F9C6118F"
+    },
+    {
+      "class": "text",
+      "id": "9160B559-2E88-4D21-BA1C-8FD43B48A7F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0167FC2C-8F86-4A16-B02E-0366FCC2B7F5"
     }
   ],
   "name": "download_queue_whole_experiment copy 2",

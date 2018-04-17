@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 89,
-    "width": 175,
-    "x": 557,
-    "y": 0
+    "height": 89.00000000000001,
+    "width": 208,
+    "x": 577,
+    "y": 1
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,12 +34,8 @@
       "id": "1FCE3DC3-505B-449C-9765-6A097BA9C69A"
     },
     {
-      "class": "text",
-      "id": "12D0C35A-8B8D-4447-A010-A510E86758A6"
-    },
-    {
-      "class": "text",
-      "id": "E50D41FF-4000-4526-AEDF-3BAE5B323E39"
+      "class": "group",
+      "id": "F8A3CA08-09A6-4284-A2F6-DB1CDF0760CF"
     }
   ],
   "name": "qaulity-report-summary",

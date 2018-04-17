@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CB18D311-7D51-4397-91F8-DD45E7C5B68E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C91792F9-F1F3-4FCE-9ED4-21FD2DECD875",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A958F108-5322-4766-BE6E-D64022E438C5",
+    "height": 48,
+    "width": 216,
+    "x": 584,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "table/data-cell/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BD4D41C-E783-47CA-9ACA-4276D65F7C43",
+      "overrideName": "69E04A94-79A3-44C0-9184-62E2908F4956_symbolID",
+      "value": "A2D0BC1A-884C-4E6A-A061-797A97D8B7FB"
+    }
+  ],
+  "overrides": {
+    "69E04A94-79A3-44C0-9184-62E2908F4956": {
+      "symbolID": "A2D0BC1A-884C-4E6A-A061-797A97D8B7FB"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5FD1CC0-A396-4A5C-B03E-B3B016E79760",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9BBDCAA3-5086-451D-8F49-6B0D3E1B9262",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

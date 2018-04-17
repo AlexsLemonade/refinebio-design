@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 81,
-    "width": 630,
-    "x": 1.13686837721616e-13,
+    "height": 80,
+    "width": 632,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -36,10 +36,14 @@
     {
       "class": "symbolInstance",
       "id": "9476E281-8B62-4FC5-B060-76688801FEAB"
+    },
+    {
+      "class": "group",
+      "id": "DBE552C6-63E4-4B7F-A56E-EF888AE09A94"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "title",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

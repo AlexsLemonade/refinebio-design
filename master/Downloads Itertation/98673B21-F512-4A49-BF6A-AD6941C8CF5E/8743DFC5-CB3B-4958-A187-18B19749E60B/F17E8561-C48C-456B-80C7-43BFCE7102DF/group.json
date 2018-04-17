@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 90,
-    "width": 732,
-    "x": 171,
-    "y": 206
+    "height": 91,
+    "width": 1029,
+    "x": 24,
+    "y": 246
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,6 +34,10 @@
       "id": "0144E8AA-A0DA-48C1-BFC0-8BF8BB7BF26E"
     },
     {
+      "class": "shapeGroup",
+      "id": "CE072978-E9FD-4A78-8B7E-92842909F314"
+    },
+    {
       "class": "group",
       "id": "7397996C-115C-4595-B783-833E6E0FA5CF"
     },
@@ -44,6 +48,14 @@
     {
       "class": "group",
       "id": "42F5C504-3966-4B26-BB33-BC827FF70E7B"
+    },
+    {
+      "class": "text",
+      "id": "78AA7A33-145C-4954-BFF9-D8F0640576B1"
+    },
+    {
+      "class": "text",
+      "id": "5DDFBE6C-C7CA-4635-BDCC-6F5644254DCD"
     }
   ],
   "name": "File summaries",

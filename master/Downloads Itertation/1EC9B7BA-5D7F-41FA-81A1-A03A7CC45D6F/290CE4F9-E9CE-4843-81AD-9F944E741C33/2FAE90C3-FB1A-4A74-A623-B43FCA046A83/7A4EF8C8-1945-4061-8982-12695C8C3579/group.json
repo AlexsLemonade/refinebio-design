@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 81,
-    "width": 990,
-    "x": 1.13686837721616e-13,
+    "height": 80,
+    "width": 1040,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,19 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
+      "id": "E81B50BE-3F5F-41FF-BDE2-9601B18B4E3B"
+    },
+    {
+      "class": "group",
       "id": "DDCA8FC9-CAF2-408E-A6F8-D5356CB99729"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C41270F-36E1-45F1-8481-04DC7B156335"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6271E27B-4B5C-45C9-9A7B-04817F59B29B"
     }
   ],
   "name": "ExperimentTitle",
