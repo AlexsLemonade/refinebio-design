@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2897,
+    "height": 1790,
     "width": 1440,
     "x": 2531,
     "y": 798
@@ -73,10 +73,6 @@
     },
     {
       "class": "group",
-      "id": "C7C1D4FC-4C5C-4DF0-BBD9-96DC9C4C6E9D"
-    },
-    {
-      "class": "group",
       "id": "290CE4F9-E9CE-4843-81AD-9F944E741C33"
     },
     {
@@ -86,10 +82,6 @@
     {
       "class": "group",
       "id": "7EFCB311-FCC2-457E-B593-7C112200BEED"
-    },
-    {
-      "class": "group",
-      "id": "A87B41F1-4DF0-4F40-92B5-D62C2D3014C0"
     },
     {
       "class": "text",
@@ -102,6 +94,10 @@
     {
       "class": "group",
       "id": "87FDD157-7D4F-4F65-BC35-6AB6702BE73F"
+    },
+    {
+      "class": "group",
+      "id": "F820665A-C755-4465-95A7-6B53094C48D1"
     }
   ],
   "name": "download_queue_whole_experiment copy",

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 600,
-    "width": 1037,
-    "x": 16,
-    "y": 1318
+    "height": 222,
+    "width": 1036,
+    "x": 17,
+    "y": 556
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -30,28 +30,24 @@
       "id": "D319A65B-1D13-4887-B7A4-C9677D0D5FE4"
     },
     {
-      "class": "shapeGroup",
-      "id": "3F4D9D36-3D76-4235-BECE-BE26F24DF314"
-    },
-    {
-      "class": "text",
-      "id": "6A59D5C1-C719-4E8C-9887-571C5FE7D7B5"
-    },
-    {
       "class": "group",
       "id": "D4F0C6B0-3734-49F6-92C0-77191953D2C1"
-    },
-    {
-      "class": "text",
-      "id": "0B8B4141-2A7D-48A3-B0FC-8F551275B7C8"
     },
     {
       "class": "group",
       "id": "DDF21AD8-3543-4A15-99BD-FC82626373F2"
     },
     {
-      "class": "group",
-      "id": "5F04971D-92E6-4ECA-BC9F-CFB57DC1CE5B"
+      "class": "shapeGroup",
+      "id": "40ABC0F2-C60E-4571-A0A2-4D2509FEB018"
+    },
+    {
+      "class": "text",
+      "id": "CD4E9159-E50A-49F6-8DFD-2CBBFA3FB492"
+    },
+    {
+      "class": "text",
+      "id": "3F193803-4895-4D13-8D81-855AFC00B5D3"
     }
   ],
   "name": "Experiment",
