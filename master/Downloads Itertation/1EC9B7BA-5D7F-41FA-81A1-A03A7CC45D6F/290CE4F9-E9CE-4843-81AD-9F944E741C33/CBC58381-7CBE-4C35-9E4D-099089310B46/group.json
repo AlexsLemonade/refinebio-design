@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 602,
-    "width": 1036,
-    "x": 17,
-    "y": 1323
+    "height": 600,
+    "width": 1037,
+    "x": 16,
+    "y": 1318
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -28,10 +28,6 @@
     {
       "class": "text",
       "id": "D319A65B-1D13-4887-B7A4-C9677D0D5FE4"
-    },
-    {
-      "class": "group",
-      "id": "0C74F263-9C62-44B5-B241-409BB712A858"
     },
     {
       "class": "shapeGroup",
@@ -46,8 +42,16 @@
       "id": "D4F0C6B0-3734-49F6-92C0-77191953D2C1"
     },
     {
+      "class": "text",
+      "id": "0B8B4141-2A7D-48A3-B0FC-8F551275B7C8"
+    },
+    {
       "class": "group",
       "id": "DDF21AD8-3543-4A15-99BD-FC82626373F2"
+    },
+    {
+      "class": "group",
+      "id": "5F04971D-92E6-4ECA-BC9F-CFB57DC1CE5B"
     }
   ],
   "name": "Experiment",

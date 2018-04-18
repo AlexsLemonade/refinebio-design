@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 442,
+    "height": 422,
     "width": 575,
-    "x": 1.000000000000114,
-    "y": 161
+    "x": 1,
+    "y": 180
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -43,10 +43,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F5C543DB-BF4C-451E-80E0-6AB9E801FFAB"
-    },
-    {
-      "class": "symbolInstance",
       "id": "627194F3-29EC-403C-871A-7BF6281C7C26"
     },
     {
@@ -54,8 +50,12 @@
       "id": "FD07C15E-D7B8-457D-B693-542712230B4D"
     },
     {
+      "class": "group",
+      "id": "EC33826F-DF7F-487E-A64C-E6FD8C452E8C"
+    },
+    {
       "class": "symbolInstance",
-      "id": "100433A4-58F9-4B3F-94BB-DC084A44E7FC"
+      "id": "C7EC51CF-F881-44A1-8F5C-7BEB46701872"
     }
   ],
   "name": "sample-metadata-table",
