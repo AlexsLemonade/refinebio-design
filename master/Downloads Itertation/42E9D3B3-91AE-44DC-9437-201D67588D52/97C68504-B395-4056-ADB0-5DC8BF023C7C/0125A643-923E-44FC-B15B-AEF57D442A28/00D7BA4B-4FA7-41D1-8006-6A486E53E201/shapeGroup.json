@@ -17,7 +17,7 @@
     "height": 210,
     "width": 1073,
     "x": 0,
-    "y": 45
+    "y": 43
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9607843137254902,
-          "green": 0.9607843137254902,
-          "red": 0.9607843137254902
+          "blue": 0.9921568627450981,
+          "green": 0.9921568627450981,
+          "red": 0.9921568627450981
         },
         "fillType": 0,
         "isEnabled": true,
@@ -79,7 +79,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 4,
+        "blurRadius": 20,
         "color": {
           "_class": "color",
           "alpha": 0.1,
@@ -94,7 +94,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 3,
         "spread": 0
       }
     ],

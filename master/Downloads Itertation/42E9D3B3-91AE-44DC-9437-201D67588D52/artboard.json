@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9922140731292517,
+    "green": 0.9922140731292517,
+    "red": 0.9922140731292517
   },
   "do_objectID": "42E9D3B3-91AE-44DC-9437-201D67588D52",
   "exportOptions": {
@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1182,
+    "height": 1225,
     "width": 1440,
-    "x": 4071,
-    "y": 3081
+    "x": 867,
+    "y": 312
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -84,8 +84,8 @@
       "id": "886D81FE-1B12-42E4-8BC4-C5E560E613F0"
     },
     {
-      "class": "symbolInstance",
-      "id": "506DBCA0-1E75-45EF-809F-1DDD33E9EF50"
+      "class": "group",
+      "id": "5338CFCA-D5B2-4501-BD73-3B621212F15A"
     },
     {
       "class": "group",
@@ -112,8 +112,20 @@
       "id": "C5D3A113-D7F1-452E-8B8D-3A9DFFA7DFD9"
     },
     {
+      "class": "shapeGroup",
+      "id": "34F1EAB7-032C-408F-8712-F87E50DD2B36"
+    },
+    {
       "class": "symbolInstance",
       "id": "86E24823-9868-423D-98E8-9080BBB77285"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B319F5A-EF5C-4CF1-9DFB-CE73C5C6AB28"
+    },
+    {
+      "class": "text",
+      "id": "1D0731CA-63A2-482B-93DC-42C65729FFD6"
     }
   ],
   "name": "download_queue_whole_experiment copy 4",

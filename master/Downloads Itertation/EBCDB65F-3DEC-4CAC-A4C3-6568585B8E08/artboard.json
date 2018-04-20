@@ -32,7 +32,7 @@
     "_class": "simpleGrid",
     "do_objectID": "A1822B3D-E0AA-4065-BC09-A6399C7745B0",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 16
   },
   "hasBackgroundColor": false,
@@ -56,10 +56,6 @@
     {
       "class": "group",
       "id": "334B6641-4138-47ED-B2A1-F66637E56360"
-    },
-    {
-      "class": "group",
-      "id": "F595D61F-59E6-43CC-9C46-49F50338C686"
     },
     {
       "class": "group",

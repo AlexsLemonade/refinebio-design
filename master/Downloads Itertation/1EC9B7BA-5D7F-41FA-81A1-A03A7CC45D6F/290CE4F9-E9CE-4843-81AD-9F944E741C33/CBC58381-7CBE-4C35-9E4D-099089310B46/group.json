@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 222,
-    "width": 1036,
-    "x": 17,
-    "y": 556
+    "height": 217,
+    "width": 1025,
+    "x": 24,
+    "y": 577
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -38,16 +38,12 @@
       "id": "DDF21AD8-3543-4A15-99BD-FC82626373F2"
     },
     {
-      "class": "shapeGroup",
-      "id": "40ABC0F2-C60E-4571-A0A2-4D2509FEB018"
+      "class": "group",
+      "id": "3C790C47-63AA-4818-BC70-F60BD96F51DA"
     },
     {
       "class": "text",
       "id": "CD4E9159-E50A-49F6-8DFD-2CBBFA3FB492"
-    },
-    {
-      "class": "text",
-      "id": "3F193803-4895-4D13-8D81-855AFC00B5D3"
     }
   ],
   "name": "Experiment",

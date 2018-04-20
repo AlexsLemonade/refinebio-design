@@ -15,15 +15,15 @@
     "constrainProportions": false,
     "height": 126,
     "width": 1041,
-    "x": 200,
-    "y": 852
+    "x": 208,
+    "y": 890
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,12 +50,8 @@
       "id": "37E73681-33F5-479D-B67F-F37C7E2E4F99"
     },
     {
-      "class": "shapeGroup",
-      "id": "0B9788C6-1774-4273-B66A-B0B3AE773078"
-    },
-    {
-      "class": "text",
-      "id": "ED9B0702-7920-4533-846B-FFD2FD57888F"
+      "class": "group",
+      "id": "49AF6609-8D88-4523-B356-8E1AEA8E54DC"
     }
   ],
   "name": "Human Samples",

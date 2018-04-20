@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 110,
+  "changeIdentifier": 135,
   "do_objectID": "E747039C-B81C-4891-9116-33BAB1B2B223",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "D40FB272-DB0A-477F-9BB7-6B1081A2FE65"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DEADB5D6-C2C9-4701-B3EE-453DCDCE8C3C"
+      "class": "group",
+      "id": "CD132D5E-F8FB-4994-8370-E9F4B18F0A8E"
     }
   ],
   "name": "buttons/segemented-buttons/2-tabs/hover",
@@ -67,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "AB994F4E-CF2E-495C-A607-CC708361E2B0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

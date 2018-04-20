@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3,
-    "width": 987.16,
+    "height": 2,
+    "width": 1025,
     "x": 0,
     "y": 0
   },
@@ -36,22 +36,22 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{-0.042467138523761383, 0.66666666666666663}",
+        "curveFrom": "{-0.04089937606352808, 1}",
         "curveMode": 1,
-        "curveTo": "{-0.042467138523761383, 0.66666666666666663}",
+        "curveTo": "{-0.04089937606352808, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.00050556117290192126, 0.5}"
+        "point": "{0, 0.5}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{-0.041456016177957536, 1}",
+        "curveFrom": "{-0.039925581395348853, 1.5}",
         "curveMode": 1,
-        "curveTo": "{-0.041456016177957536, 1}",
+        "curveTo": "{-0.039925581395348853, 1.5}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.9994944388270981, 0.5}"
+        "point": "{1, 0.5}"
       }
     ]
   },
@@ -60,22 +60,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.042467138523761383, 0.66666666666666663}",
+      "curveFrom": "{-0.04089937606352808, 1}",
       "curveMode": 1,
-      "curveTo": "{-0.042467138523761383, 0.66666666666666663}",
+      "curveTo": "{-0.04089937606352808, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.00050556117290192126, 0.5}"
+      "point": "{0, 0.5}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.041456016177957536, 1}",
+      "curveFrom": "{-0.039925581395348853, 1.5}",
       "curveMode": 1,
-      "curveTo": "{-0.041456016177957536, 1}",
+      "curveTo": "{-0.039925581395348853, 1.5}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.9994944388270981, 0.5}"
+      "point": "{1, 0.5}"
     }
   ],
   "resizingConstraint": 63,

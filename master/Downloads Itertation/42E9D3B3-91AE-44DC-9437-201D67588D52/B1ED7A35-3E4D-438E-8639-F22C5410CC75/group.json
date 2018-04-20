@@ -14,16 +14,16 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 117,
-    "width": 1041,
-    "x": 200,
-    "y": 994
+    "width": 1025,
+    "x": 208,
+    "y": 1032
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,14 +32,6 @@
     {
       "class": "shapeGroup",
       "id": "6C9CA018-7C6F-4084-BA4B-CD0F126F6B7D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E8C5A631-6CEF-4103-A629-549FF4BF97CC"
-    },
-    {
-      "class": "text",
-      "id": "A2A09E19-54C0-4BE0-9F7C-A52092B54FE5"
     },
     {
       "class": "text",
@@ -56,6 +48,10 @@
     {
       "class": "text",
       "id": "921F677C-43FE-4BDC-8622-EA00BC42D2DD"
+    },
+    {
+      "class": "group",
+      "id": "9D990310-EB43-4F5D-A1F4-24B264F44B52"
     }
   ],
   "name": "Mouse Samples",

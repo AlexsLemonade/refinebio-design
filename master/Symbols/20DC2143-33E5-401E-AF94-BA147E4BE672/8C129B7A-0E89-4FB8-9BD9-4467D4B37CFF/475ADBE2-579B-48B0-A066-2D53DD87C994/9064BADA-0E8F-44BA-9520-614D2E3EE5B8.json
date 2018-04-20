@@ -20,7 +20,7 @@
     "x": 0,
     "y": 0
   },
-  "isClosed": false,
+  "isClosed": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -30,19 +30,9 @@
   "nameIsFixed": false,
   "path": {
     "_class": "path",
-    "isClosed": false,
+    "isClosed": true,
     "pointRadiusBehaviour": 1,
     "points": [
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{0.73681100803239563, 0.369775809576529}",
-        "curveMode": 1,
-        "curveTo": "{0.73681100803239563, 0.369775809576529}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{0.73681100803239563, 0.369775809576529}"
-      },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
@@ -190,16 +180,6 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.73681100803239563, 0.369775809576529}",
-      "curveMode": 1,
-      "curveTo": "{0.73681100803239563, 0.369775809576529}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.73681100803239563, 0.369775809576529}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
       "curveFrom": "{0.34528254982462542, 0.40660393025186814}",
       "curveMode": 1,
       "curveTo": "{0.34528254982462542, 0.40660393025186814}",
@@ -341,5 +321,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }
