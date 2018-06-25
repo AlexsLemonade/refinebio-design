@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9CB0A72D-C1AA-4B39-A9F1-826CDEBFF47D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "087A0803-5110-44D4-AC89-EE090A9972EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6ED1C78A-CB3F-4EDA-929F-033A42FB85E9",
+    "height": 23.78571428571428,
+    "width": 145,
+    "x": 0,
+    "y": 55.49999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "badges/accession-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "619F9C1E-DF5E-4A0F-8B7C-C88622874B8D",
+      "overrideName": "98DD550D-EF58-4BE1-994D-4F030744D83A_stringValue",
+      "value": "E-GEOD-162"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FAA65A5B-00BD-47CC-A08A-683D7ABC67F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "49545975-E889-4B56-B0BC-87F9ED94DB77",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "null"
+    }
+  },
+  "verticalSpacing": 0
+}

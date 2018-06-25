@@ -1,10 +1,36 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGgcIDxAcHR4fKywtLi8wMTc7Q0RFRkdKTlZZVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAGYADVkxhdW5jaNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4APgBeADl8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicmJoAMgA2ADIAMgA5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAADSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI0NlhOU09iamVjdNIKODk6XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCjw/QqI9PoARgBKiQEGAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF1SdWJpay1SZWd1bGFy0jIzSElfEBNOU011dGFibGVEaWN0aW9uYXJ5o0g0NtIyM0tMXxAQTlNGb250RGVzY3JpcHRvcqJNNl8QEE5TRm9udERlc2NyaXB0b3LUT1BRClJTVFVaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABAEEAGAGNIyM1dYXxAQTlNQYXJhZ3JhcGhTdHlsZaJXNtIyM1pbXxASTlNBdHRyaWJ1dGVkU3RyaW5nolw2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V9gVHJvb3SAAQAIABEAGgAjAC0AMgA3AFQAWgBhAGoAcQB+AIAAggCEAIsAkgCaAKUAqQCrAK0ArwCzALUAtwC5ALsA6AEKAR0BJAEpASsBLQEvATEBNgE4AToBPAE+AUABRAFKAU8BVQFeAWcBbAF3AYABjQGQAZkBngG7Ab0BvwHGAckBywHNAdAB0gHUAdYB7AICAgsCGQIeAjQCOAI9AlACUwJmAm8CegKGAqgCqgKsAq4CsAK1AsgCywLQAuUC6AL9Aw8DEgMXAAAAAAAAAgEAAAAAAAAAYQAAAAAAAAAAAAAAAAAAAxk="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Regular",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 27,
+            "minimumLineHeight": 27
+          }
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "Launch"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9765F706-FFBC-4E7E-9C25-7ABBE0D961BB",
@@ -21,13 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
+    "height": 27,
     "width": 65,
     "x": 26,
     "y": 213
   },
-  "glyphBounds": "{{1, 4}, {61, 14}}",
-  "heightIsClipped": false,
+  "glyphBounds": "{{1, 7}, {61, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -41,7 +66,37 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "35A2A7BA-7C10-4CEC-A25D-B1C85EDE888D"
+    "_class": "style",
+    "do_objectID": "1B5FEFB7-BD23-4DC3-8CCF-0888E1DA1638",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "35A2A7BA-7C10-4CEC-A25D-B1C85EDE888D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Regular",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 27,
+          "minimumLineHeight": 27
+        }
+      },
+      "verticalAlignment": 0
+    }
   },
   "textBehaviour": 1,
   "userInfo": {

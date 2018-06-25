@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "8119DB2D-7884-4E86-9F77-DBE3C26C5A33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77D28E4D-D398-4A4B-8DF1-BB2AB15FFE3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F70D62B0-946B-4F15-84C9-B54ABEB0FE22",
+    "height": 56,
+    "width": 1440,
+    "x": 33,
+    "y": 451
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AFB9ADE5-54F0-4FF2-A3FB-186ACA77C070"
+    },
+    {
+      "class": "group",
+      "id": "9DC6D583-A8D6-43D1-882C-67FEA6EAABB3"
+    },
+    {
+      "class": "group",
+      "id": "EFE9813B-AE28-47A8-B168-2788C0E287E0"
+    }
+  ],
+  "name": "success-alert-banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA5FE7BB-CE29-4F60-A28D-D6A28A8ABCC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

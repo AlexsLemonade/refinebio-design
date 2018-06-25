@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E4DA4F7-0EAA-411A-8BDE-EF7C74CA559D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "984B2EB3-9B25-4735-81FF-855EF287024F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8A1AC96C-D9DA-4C33-BF80-69FEE1D6D7C7",
+    "height": 7,
+    "width": 10.5,
+    "x": 1,
+    "y": 15
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/chevron-down",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20FB9112-7753-43AF-99A6-31313A1B99B4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "64A6D2EB-1BF3-4BFB-91A7-E62398504488",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 7,
+            "enabled": 1,
+            "modelID": "constraint_4a0d17ba-ad88-4c61-a084-c04ac5bcb8b5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 10.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5ab3fff8-dbd4-4419-8064-d88a19cc307b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

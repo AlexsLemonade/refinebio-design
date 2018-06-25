@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "do_objectID": "1938EAB2-2EF1-483D-B096-DA4F59A08952",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B797E248-5368-4FDE-94BD-7241A554B1A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39A5BD62-8AA2-47FA-9513-C54C6CD99C04",
+    "height": 286,
+    "width": 231,
+    "x": 183,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DCE8B7F9-A02B-472F-8A61-EADAFDF36F2C"
+    },
+    {
+      "class": "group",
+      "id": "45824833-75B6-4E02-98A8-6D5892E43D55"
+    },
+    {
+      "class": "group",
+      "id": "D20CDEBC-C875-41D5-8916-949DBDCB8584"
+    },
+    {
+      "class": "group",
+      "id": "8BE75A84-F6DB-4914-BB7C-72825F1C863E"
+    },
+    {
+      "class": "group",
+      "id": "8E1000D6-A0A5-495E-B87A-3180B01A1409"
+    },
+    {
+      "class": "group",
+      "id": "2868507F-F773-4044-9AC5-660B4524C49F"
+    },
+    {
+      "class": "group",
+      "id": "28DADBFC-DB17-43FC-818B-386C5D22227B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A05B229-D780-4120-A71B-0986F1289B37"
+    },
+    {
+      "class": "text",
+      "id": "CCF46CC9-D84B-453D-80B8-63A9AC644341"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B1CE4DD-7A81-4A00-97DD-2305AD1B2757"
+    }
+  ],
+  "name": "Organism-filter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34E59ABC-F662-4D1A-8080-67E859306787",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

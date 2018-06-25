@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "C9F9E9F2-8F15-44F9-A97D-28453EF008C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBD6A1EC-DFAB-4470-B004-F1323810A0A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8D7B5B66-1930-4A46-84B3-463F64062AD3",
+    "height": 92,
+    "width": 143,
+    "x": 1300,
+    "y": 647
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DF40A2A6-A667-40F7-8780-30E1299761B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38C97695-DE16-4E01-86AC-52FA73DAD947"
+    },
+    {
+      "class": "text",
+      "id": "B9035A58-74DC-440C-8264-50A3F866DA11"
+    }
+  ],
+  "name": "PROPERTY#183CDCEA-79E6-45DC-AD6F-FC4FB83428F9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B02C9434-F61B-41D2-9A74-01261A7FFC02",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 92,
+            "enabled": 1,
+            "modelID": "constraint_fe73f43e-1df4-4d8e-8c2e-c759b42de199",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 143
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f42f580d-a870-4598-90c6-c75376617e6c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.utom.measure": {
+      "SMConfigs2": "{\"placement\":\"left\",\"timestamp\":1527862493340}"
+    }
+  }
+}

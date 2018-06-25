@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "5069902C-C9CD-4067-A4A3-493420A5199D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A65C4412-2081-4EEB-B571-D1E24EC3F47C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EC2EF950-F19E-41AB-92BD-65F9F7AD8F8A",
+    "height": 16,
+    "width": 16,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E629990-9C3E-43B2-9B85-7BE98E4AEADF"
+    }
+  ],
+  "name": "android-checkbox-outline-blank copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB7D4769-DF62-4DF2-82DA-88685C1CBF1F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_b0af3267-449b-4c5f-9b7d-6d1160c5116f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4f6dfb99-ee35-48a2-9e00-007c1066469c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 336,
+    "height": 399,
     "width": 174,
-    "x": 1,
-    "y": 44
+    "x": 0,
+    "y": 56
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -44,6 +44,18 @@
     {
       "class": "group",
       "id": "CD5B5987-804A-4C58-B2FC-591177709460"
+    },
+    {
+      "class": "group",
+      "id": "0F86787C-634E-4630-90BD-FD90A05E9689"
+    },
+    {
+      "class": "group",
+      "id": "63DC3CD5-5732-4967-9F13-70C74944283E"
+    },
+    {
+      "class": "group",
+      "id": "EAECADB2-4301-40BD-8CC7-6715B53ED82B"
     }
   ],
   "name": "AlexsNavy",

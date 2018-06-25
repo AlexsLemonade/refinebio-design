@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "BF72AB19-6202-436C-BB17-12CFC0AEB6B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68CA36E3-C16F-46E9-B8E1-790D500BBD65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AA081E6-CD1E-45B3-96A6-C63957EF81FF",
+    "height": 24,
+    "width": 215,
+    "x": 562,
+    "y": 806
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3DB3A9BC-694D-46FC-A374-10E35560D958"
+    },
+    {
+      "class": "text",
+      "id": "1020A70E-5349-46AD-B7BB-C956FB69C1F1"
+    }
+  ],
+  "name": "bioconductor_tximport",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "345CAB27-9F56-47DD-9CE6-484820C1F591",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "B4A12C38-0CFA-4E2E-9654-8F2093B9761B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28264ADE-94D5-47CE-BE90-F5674EDC9E21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28A3CF23-F048-4B5E-97FF-84F0512C588E",
+    "height": 60,
+    "width": 174,
+    "x": 0,
+    "y": 460
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17780E6A-6134-4F98-84D5-718B2A9256E9"
+    },
+    {
+      "class": "text",
+      "id": "1F1CAC5B-9A7C-46CA-92DD-7B60D4FB394E"
+    },
+    {
+      "class": "text",
+      "id": "66AACC97-61FA-474A-BD8A-78233BD8307B"
+    },
+    {
+      "class": "group",
+      "id": "6EA3C26A-721B-413F-B49D-FAB540029EEC"
+    }
+  ],
+  "name": "40PercentDark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2066FDEC-CFD1-4844-B548-4A6B4EB6DB89",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

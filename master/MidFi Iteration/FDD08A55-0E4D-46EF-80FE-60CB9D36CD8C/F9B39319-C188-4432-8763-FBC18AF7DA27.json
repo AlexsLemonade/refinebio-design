@@ -1,0 +1,122 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Lato-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 742,
+        "location": 0
+      }
+    ],
+    "string": "Salmon is an alignment-free method for estimating transcript abundances from RNA-seq data. We use it in quasi-mapping mode, which is significantly faster than alignment-based approaches and requires us to build a Salmon transcriptome index. We build a custom reference transcriptome (using RSEM rsem-prepare-reference) by filtering the Ensembl genomic DNA assembly to remove pseudogenes, which we expect could negatively impact the quantification of protein-coding genes. This means we're obtaining abundance estimates for coding as well as non-coding transcripts. We include the flags `--seqBias` to correct for random hexamer priming and, if this is a paired-end experiment, `--gcBias` to correct for GC content when running `salmon quant`."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F9B39319-C188-4432-8763-FBC18AF7DA27",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F10E111-D8FD-4242-BA8E-C00AAA139693",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3068A99-7AF6-4F3F-9D86-270BC035440A",
+    "height": 195,
+    "width": 728,
+    "x": 604,
+    "y": 773
+  },
+  "glyphBounds": "{{0, 6}, {721, 183}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Salmon is an alignme",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F61F5CC9-BA54-4E26-A1F7-C98DABAE5741",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "090593DF-17C1-46FE-8AA4-A5DB76ED3A3F",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "3A87791B-4F99-4A39-B534-87CFE98EEF2B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Lato-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "medicine",
+          "type": "body"
+        },
+        "title": "Medicine"
+      }
+    }
+  }
+}

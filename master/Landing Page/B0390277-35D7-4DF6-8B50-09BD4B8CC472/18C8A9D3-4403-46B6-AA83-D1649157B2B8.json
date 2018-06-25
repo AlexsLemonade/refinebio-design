@@ -1,10 +1,135 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Lato-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "headIndent": 36,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 11,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 36,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340,
+                "options": {
+                }
+              }
+            ],
+            "textLists": [
+              {
+                "_class": "textList",
+                "listOptions": 0,
+                "markerFormat": "{disc}"
+              }
+            ]
+          }
+        },
+        "length": 99,
+        "location": 0
+      }
+    ],
+    "string": "\t• \tcancer cell lines\n\t• \ttumor samples from adult and pediatric cancers\n\t• \tmultiple animal models"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "18C8A9D3-4403-46B6-AA83-D1649157B2B8",
@@ -27,7 +152,6 @@
     "y": 378
   },
   "glyphBounds": "{{12, 4}, {354, 53}}",
-  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,17 +172,123 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0,
           "green": 0,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Lato-Regular",
+            "size": 16
+          }
         },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGAcIFygsMjQ3Oj1AQ0ZJTE9SVVhbX2NkaFUkbnVsbNcJCgsMDQ4PEBESExQVFlYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzXE5TSGVhZEluZGVudFtOU0FsaWdubWVudIAXgAKAEhABgBMjQEIAAAAAAAAQBNIYCRknWk5TLm9iamVjdHOtGhscHR4fICEiIyQlJoADgAWABoAHgAiACYAKgAuADIANgA6AD4AQgBHSCSkqK1pOU0xvY2F0aW9ugAQjQCYAAAAAAADSLS4vMFokY2xhc3NuYW1lWCRjbGFzc2VzWU5TVGV4dFRhYqIvMVhOU09iamVjdNIJKSoVgATSCSkqNoAEI0BMUzNAAAAA0gkpKjmABCNAVUAAAAAAANIJKSo8gAQjQFxWZmAAAADSCSkqP4AEI0BhtmZgAAAA0gkpKkKABCNAZUGZoAAAANIJKSpFgAQjQGjMzMAAAADSCSkqSIAEI0BsWAAAAAAA0gkpKkuABCNAb+MzQAAAANIJKSpOgAQjQHG3M0AAAADSCSkqUYAEI0BzfMzAAAAA0gkpKlSABCNAdUJmYAAAANItLlZXV05TQXJyYXmiVjHSGAlZJ6CAEdIYCVwnoV2AFIAR0glgYWJeTlNNYXJrZXJGb3JtYXSAFoAVVntkaXNjfdItLmVmWk5TVGV4dExpc3SiZzFaTlNUZXh0TGlzdNItLmlqXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjaWsxXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctFub1Ryb290gAEACAARABoAIwAtADIANwBSAFgAZwBuAHkAhgCoALQAwQDNAM8A0QDTANUA1wDgAOIA5wDyAQABAgEEAQYBCAEKAQwBDgEQARIBFAEWARgBGgEcASEBLAEuATcBPAFHAVABWgFdAWYBawFtAXIBdAF9AYIBhAGNAZIBlAGdAaIBpAGtAbIBtAG9AcIBxAHNAdIB1AHdAeIB5AHtAfIB9AH9AgICBAINAhICFAIdAiICKgItAjICMwI1AjoCPAI+AkACRQJUAlYCWAJfAmQCbwJyAn0CggKcAqACswLFAsgCzQAAAAAAAAIBAAAAAAAAAHAAAAAAAAAAAAAAAAAAAALP"
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "headIndent": 36,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 11,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 36,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 85,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 113,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 141,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 170,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 198,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 226,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 255,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 283,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 311,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 340,
+              "options": {
+              }
+            }
+          ],
+          "textLists": [
+            {
+              "_class": "textList",
+              "listOptions": 0,
+              "markerFormat": "{disc}"
+            }
+          ]
         }
       },
       "verticalAlignment": 0

@@ -1,10 +1,34 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGgcIDxAcHR4fKywtLi8wMTc7Q0RFRkdKTlZZVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAGYADXUFjZW50IFBhbGV0dGXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAD4AXgA5fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnJiaADIANgAyADIAOU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAA0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNDZYTlNPYmplY3TSCjg5Ol8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgo8P0KiPT6AEYASokBBgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABdUnViaWstUmVndWxhctIyM0hJXxATTlNNdXRhYmxlRGljdGlvbmFyeaNINDbSMjNLTF8QEE5TRm9udERlc2NyaXB0b3KiTTZfEBBOU0ZvbnREZXNjcmlwdG9y1E9QUQpSU1RVWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQBBABgBjSMjNXWF8QEE5TUGFyYWdyYXBoU3R5bGWiVzbSMjNaW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcNl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBUAFoAYQBqAHEAfgCAAIIAhACSAJkAoQCsALAAsgC0ALYAugC8AL4AwADCAO8BEQEkASsBMAEyATQBNgE4AT0BPwFBAUMBRQFHAUsBUQFWAVwBZQFuAXMBfgGHAZQBlwGgAaUBwgHEAcYBzQHQAdIB1AHXAdkB2wHdAfMCCQISAiACJQI7Aj8CRAJXAloCbQJ2AoECjQKvArECswK1ArcCvALPAtIC1wLsAu8DBAMWAxkDHgAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAMg"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Regular",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 13,
+        "location": 0
+      }
+    ],
+    "string": "Acent Palette"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CB78B19E-5FEE-4094-BFA3-3DFBE8A2C734",
@@ -27,7 +51,6 @@
     "y": 0
   },
   "glyphBounds": "{{0, 4}, {126, 16}}",
-  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

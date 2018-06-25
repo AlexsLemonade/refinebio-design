@@ -13,21 +13,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 338,
+    "height": 637,
     "width": 174,
-    "x": 1,
-    "y": 400
+    "x": 0,
+    "y": 529
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "B51A8BB5-0842-4DB4-909E-7D6E486F676C"
+    },
+    {
+      "class": "group",
+      "id": "ABEA69EC-7775-43BE-83FA-0A4380693029"
+    },
+    {
+      "class": "group",
+      "id": "FCF3EB09-8519-4235-B733-482312E98897"
+    },
+    {
+      "class": "group",
+      "id": "35103ADA-8248-4AE4-BA21-89282AED01A2"
+    },
+    {
+      "class": "group",
+      "id": "ED533B59-3D6E-4B81-870D-F6DDCE2FC412"
     },
     {
       "class": "group",
@@ -44,6 +60,18 @@
     {
       "class": "group",
       "id": "1673A3A4-4217-4AA3-A0F6-E6704BE7051A"
+    },
+    {
+      "class": "group",
+      "id": "A9BCD182-CEA0-46DC-B047-7BEF247997A7"
+    },
+    {
+      "class": "group",
+      "id": "0D1AD1E5-4A52-4117-861D-D14509C7F02B"
+    },
+    {
+      "class": "group",
+      "id": "6E18904C-1274-4A9F-A6A9-8DFED21E7390"
     }
   ],
   "name": "Coral",

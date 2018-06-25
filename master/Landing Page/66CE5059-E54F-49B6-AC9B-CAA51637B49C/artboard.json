@@ -54,21 +54,14 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B2E038C3-F6DF-478A-937F-4A7B49DF6D34"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E84F0861-0C5C-457B-B920-A69C6C026F7C"
-    },
-    {
-      "class": "bitmap",
-      "id": "56CD0227-5A13-42C3-A7B5-8D32E85ACA46"
+      "class": "symbolInstance",
+      "id": "D928AD98-AA59-476D-968F-D0E3C8AEC5CF"
     },
     {
       "class": "shapeGroup",
@@ -108,15 +101,15 @@
     },
     {
       "class": "text",
-      "id": "A7D21D47-318F-4779-905B-13D26BCF892A"
-    },
-    {
-      "class": "text",
       "id": "361D6452-2C4E-4B74-AB29-EF804DBBE9B2"
     },
     {
       "class": "text",
       "id": "54D0437C-AFA4-4858-8651-C530E1BF0A1F"
+    },
+    {
+      "class": "text",
+      "id": "CB62FB37-361B-4F72-BC78-4B7F39255097"
     },
     {
       "class": "shapeGroup",
@@ -127,8 +120,15 @@
       "id": "2D891078-BDFC-4558-8656-3BA1B04390A4"
     }
   ],
-  "name": "FactoryLanding Copy",
+  "name": "FactoryLanding-SubscribeModal",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,144 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "71E6FB8C-0722-42B9-BB8B-A3CD77286C72",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 59.00000000000009,
+    "x": 0,
+    "y": 0
+  },
+  "isClosed": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.20575432365450047, 1.8192804884240008e-15}",
+      "curveMode": 1,
+      "curveTo": "{0.20575432365450047, 1.8192804884240008e-15}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.20575432365450047, 1.8192804884240008e-15}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.20575432365450047, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.20575432365450047, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.20575432365450047, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.4190675864586878, 0.25812129940790651}",
+      "curveMode": 4,
+      "curveTo": "{0.4190675864586878, 0.25812129940790651}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.4190675864586878, 0.25812129940790651}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.82271493705201204, 0.86301808289326221}",
+      "curveMode": 2,
+      "curveTo": "{0.68574695965967103, 0.37910065610497695}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.75423094835584159, 0.62105936949911955}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.75423094835584159, 0.99999999999999822}",
+      "curveMode": 4,
+      "curveTo": "{0.75423094835584159, 0.99999999999999822}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.75423094835584159, 0.99999999999999822}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.9755566866587001, 0.99999999999999822}",
+      "curveMode": 1,
+      "curveTo": "{0.9755566866587001, 0.99999999999999822}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.9755566866587001, 0.99999999999999822}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0518217394988729, 0.62649994466637005}",
+      "curveMode": 4,
+      "curveTo": "{0.97782436840360609, 0.98911825892142646}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.97782436840360609, 0.98911825892142646}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.67849037807597223, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.93776512734818063, 0.24961164840075675}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.67849037807597223, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.67849037807597223, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.67849037807597223, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.67849037807597223, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

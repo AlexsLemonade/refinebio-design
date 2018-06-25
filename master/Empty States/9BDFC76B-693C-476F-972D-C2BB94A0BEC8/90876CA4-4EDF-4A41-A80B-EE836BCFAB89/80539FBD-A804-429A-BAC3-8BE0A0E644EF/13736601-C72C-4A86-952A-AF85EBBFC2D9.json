@@ -1,0 +1,78 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "13736601-C72C-4A86-952A-AF85EBBFC2D9",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 395.29,
+    "width": 40.74106094367438,
+    "x": 9.0594198809413e-14,
+    "y": 0
+  },
+  "isClosed": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.35241064943836736, 1}",
+      "curveMode": 4,
+      "curveTo": "{0.35241064943836736, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.35241064943836736, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.96653309545397015, 0.3593311239849224}",
+      "curveMode": 3,
+      "curveTo": "{-0.54275504225584004, 0.68673632017000164}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.52030023899658773, 0.45609552480457383}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.80995236771694767, 0.095887052203061027}",
+      "curveMode": 3,
+      "curveTo": "{1.1147864757071364, 0.25070201624124067}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.90860627800405391, 0.14569050570467246}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.4822550834680443, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.66723896491194901, 0.047119772805327607}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.4822550834680443, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

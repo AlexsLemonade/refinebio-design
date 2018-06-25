@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,9 +52,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -90,19 +91,26 @@
     },
     {
       "class": "text",
-      "id": "6B760DEF-1D44-41F5-BB0E-C652554DB5D6"
-    },
-    {
-      "class": "text",
       "id": "2DB103C3-3669-43C7-898C-9E8268F808B9"
     },
     {
       "class": "text",
       "id": "E9F95824-1FE6-45E4-8447-F3F9370F2CAB"
+    },
+    {
+      "class": "text",
+      "id": "BE84D000-82C9-4611-90AA-4FF1800EFA74"
     }
   ],
   "name": "Mobile",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

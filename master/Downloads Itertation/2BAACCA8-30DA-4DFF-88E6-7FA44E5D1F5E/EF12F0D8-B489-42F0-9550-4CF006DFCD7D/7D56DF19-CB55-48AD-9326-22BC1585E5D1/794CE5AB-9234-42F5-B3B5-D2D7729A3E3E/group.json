@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "794CE5AB-9234-42F5-B3B5-D2D7729A3E3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2692F4E-406C-4728-B382-AD924B8E400A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3335FB16-DE44-4136-A3CD-DCDDD3291085",
+    "height": 88.78048780487804,
+    "width": 235,
+    "x": 8,
+    "y": 15.60975609756098
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7FCF2CEE-610B-4CC2-93DB-E3408A2A2EF9"
+    },
+    {
+      "class": "text",
+      "id": "FDBD4750-0DBD-4EFD-8EE5-08F024B4F490"
+    },
+    {
+      "class": "group",
+      "id": "7BE4AD27-F12B-49BD-A028-EA0C9A8E3C75"
+    }
+  ],
+  "name": "gene-expression-matrix-summary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30F65194-F5D5-4B06-B275-12D923D974FC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

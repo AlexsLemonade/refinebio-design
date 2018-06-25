@@ -83,12 +83,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 14,
+            "constant": 5.40678,
             "enabled": 1,
             "modelID": "constraint_b9f8a1e9-8ae3-42a3-a476-aef0c5c61eac",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 14
+            "multiplier": 5.150685
           },
           "automatic": 1,
           "modelID": "viewConstraints_312efcb1-af13-4aa2-8d55-eacd902a278e",

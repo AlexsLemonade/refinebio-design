@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "B7ECBBB4-C1AA-4FC1-B0C2-3AC25FCC764C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DE0E423-E3CD-4BD9-B074-7A43E013B799",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1955C9EC-5968-48F7-9781-9415FB9006AE",
+    "height": 89.00000000000001,
+    "width": 208,
+    "x": 560,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "42538E02-2CF3-4172-9D0A-FD9AFD9A721F"
+    },
+    {
+      "class": "text",
+      "id": "FF92507A-4786-46B9-B970-F62C2619AA4E"
+    },
+    {
+      "class": "group",
+      "id": "B06A80E1-C902-4A7B-A6B9-B9027D8A3687"
+    }
+  ],
+  "name": "qaulity-report-summary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B376E69-3A1F-4A82-A145-04F5108C65B5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

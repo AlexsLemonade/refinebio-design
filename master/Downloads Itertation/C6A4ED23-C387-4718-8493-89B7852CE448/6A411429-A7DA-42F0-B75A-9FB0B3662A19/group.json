@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "6A411429-A7DA-42F0-B75A-9FB0B3662A19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 1073,
+    "x": 184,
+    "y": 197
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "95AD415A-70E8-41B0-B589-AD66EAAF16D0"
+    },
+    {
+      "class": "text",
+      "id": "D5F28F01-A314-4A25-90BA-7F1CA7E63F1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9F8526F-933E-4E93-9B0A-A06FDF6912B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FDDBA18-3E0A-420C-8CF7-023BCE05EF3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1044F0D-F797-4078-97F4-4CC26D43F937"
+    }
+  ],
+  "name": "Download Options",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

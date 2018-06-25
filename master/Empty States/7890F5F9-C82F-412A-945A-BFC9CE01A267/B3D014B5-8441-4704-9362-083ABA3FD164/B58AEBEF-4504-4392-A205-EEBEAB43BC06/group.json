@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "B58AEBEF-4504-4392-A205-EEBEAB43BC06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D7687C2-9181-47CA-A796-7508D07AECE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47AB50B9-E113-4555-A25C-6DC855B8CAA5",
+    "height": 24,
+    "width": 137,
+    "x": 4,
+    "y": 144
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C26FCEA0-7A5A-4DBF-AF95-A8B438BC9BB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44511274-E985-4F01-B4B9-276359645B6B"
+    }
+  ],
+  "name": "zebrafish-checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFC2D728-C87C-4415-9190-F47F8850DE5F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

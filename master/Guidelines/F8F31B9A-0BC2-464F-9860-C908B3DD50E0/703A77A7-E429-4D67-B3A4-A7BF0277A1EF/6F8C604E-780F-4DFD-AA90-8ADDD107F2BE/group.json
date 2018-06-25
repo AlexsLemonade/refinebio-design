@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 338,
+    "height": 520,
     "width": 174,
-    "x": 208,
-    "y": 770
+    "x": 214,
+    "y": 1251
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -28,6 +28,18 @@
     {
       "class": "group",
       "id": "7D290EEB-4F9D-4702-A1C9-F53E8FD3EB50"
+    },
+    {
+      "class": "group",
+      "id": "0655CE93-E3B7-41EF-8EAF-C6B89A15BD3F"
+    },
+    {
+      "class": "group",
+      "id": "FD3BA630-5605-46FB-96E0-C2C8AA193B69"
+    },
+    {
+      "class": "group",
+      "id": "430E3588-FAA2-41E5-BF50-A4FF9B510FF7"
     },
     {
       "class": "group",
@@ -44,6 +56,14 @@
     {
       "class": "group",
       "id": "995DDA9F-6ACC-4CCD-ABE5-66DA6B400BBB"
+    },
+    {
+      "class": "group",
+      "id": "6556C46D-2596-4129-A3A9-550A27D47268"
+    },
+    {
+      "class": "group",
+      "id": "C06E5FCB-8284-4124-994F-B26DCF9C537E"
     }
   ],
   "name": "Forest",

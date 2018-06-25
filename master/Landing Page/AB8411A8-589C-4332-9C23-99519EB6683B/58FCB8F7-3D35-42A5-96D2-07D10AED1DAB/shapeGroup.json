@@ -1,0 +1,171 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "58FCB8F7-3D35-42A5-96D2-07D10AED1DAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DC1E8AC-E2F8-4AEE-B954-E68469DCC676",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AFC7673-2ED7-4C56-9350-6C01DFA31EED",
+    "height": 637,
+    "width": 1440,
+    "x": 0,
+    "y": -232
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2D8A3B67-40EF-42DE-B74F-B721E74C036C"
+    }
+  ],
+  "name": "search-section-bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "FE8073CD-77A0-4630-9EBF-839B064C568F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.788235294117647,
+          "green": 0.5372549019607845,
+          "red": 0.3372549019607843
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.64945483207702637, 0.21845079393392516}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.9379812047101449,
+                "blue": 0.5137254901960784,
+                "green": 0.2039215686274513,
+                "red": 0.04705882352941178
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.807843137254902,
+                "green": 0.5490196078431375,
+                "red": 0.4196078431372549
+              },
+              "position": 0.6010787266133806
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8745098039215686,
+                "green": 0.7137254901960784,
+                "red": 0.6352941176470587
+              },
+              "position": 0.8939641445152336
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8745098039215686,
+                "green": 0.7137254901960784,
+                "red": 0.6352941176470587
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.64945643872798287, 1.5564661451060584}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/0a8c78938d6882d923de69e4c86ce2ff643c755e.pdf",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 3,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 0.1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1960767663043478,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

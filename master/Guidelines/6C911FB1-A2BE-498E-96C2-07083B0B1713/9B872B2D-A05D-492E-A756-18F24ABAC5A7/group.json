@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "9B872B2D-A05D-492E-A756-18F24ABAC5A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 31,
+    "width": 29,
+    "x": 640,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8779FD24-5E79-4D0F-9673-EC01C6E5A4D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32D72C35-B663-44F1-B7D8-B8F35383C518"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95E87A3B-4B8B-48A9-B214-B01F631A1435"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "532F30D7-BD93-49F9-BC0B-419B85EDEB3A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBF3B077-9E76-4A71-8787-91D3ADCE42D3"
+    },
+    {
+      "class": "text",
+      "id": "C1FDE325-FF98-4F38-80B6-6F7EDFE6B894"
+    }
+  ],
+  "name": "LEFT#01A1ADD0-358B-4248-9579-41744577D2D0#DF18E831-1ED5-4848-BB3E-8E6857F90363",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31,
+            "enabled": 1,
+            "modelID": "constraint_6db95687-e08b-43c1-8aea-1fa4094b59b0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 29
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_143901a6-f3eb-4265-b14b-9d624dbe18fc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

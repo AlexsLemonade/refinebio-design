@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "2342485C-FC3B-4FE7-B8C0-244746DC5713",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5B349B9-F9F4-4437-81A9-999F252BEA02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CF522A4-DC34-4111-B8EB-7D3EB16211B1",
+    "height": 24,
+    "width": 206,
+    "x": 4,
+    "y": 208
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6E68ABA3-0967-4762-BEFB-187FB6784DDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25B8E061-FD69-4B00-9F92-6B4210B083EA"
+    }
+  ],
+  "name": "dog-checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "537D3961-5DAF-4BC8-984A-9D19CA2F0766",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

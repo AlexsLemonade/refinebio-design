@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 321,
-    "width": 386,
-    "x": 8,
-    "y": 50
+    "height": 487,
+    "width": 457,
+    "x": -48,
+    "y": 71
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,13 +37,22 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
       "id": "34389D1C-3F71-4348-AD80-85277E93CA89"
+    },
+    {
+      "class": "text",
+      "id": "7CB530E6-99DA-43A4-9557-B1A03C49E436"
+    },
+    {
+      "class": "text",
+      "id": "D5DBEA34-F589-40A1-9C64-AF772E3FA7D1"
     },
     {
       "class": "text",
@@ -52,6 +61,26 @@
     {
       "class": "text",
       "id": "A04860E6-B01C-434E-9099-70D3778494AE"
+    },
+    {
+      "class": "text",
+      "id": "8CBD8EA0-35FA-421D-BD23-83347E12A387"
+    },
+    {
+      "class": "text",
+      "id": "22A853C8-F52C-4828-A664-6FD6BB68E89A"
+    },
+    {
+      "class": "text",
+      "id": "9EB34C08-9A52-4013-BFC2-11FE92E43B5F"
+    },
+    {
+      "class": "text",
+      "id": "5F92842F-D562-4C16-843F-63F11F2AC515"
+    },
+    {
+      "class": "text",
+      "id": "B49F348C-4D80-4410-B411-57E6BF3E949C"
     },
     {
       "class": "text",
@@ -68,6 +97,14 @@
     {
       "class": "text",
       "id": "5EFE17C6-BC40-400F-B8ED-E010E5AB5720"
+    },
+    {
+      "class": "text",
+      "id": "F2C4E6E1-5012-431D-BBFF-2B3F63C0C3EF"
+    },
+    {
+      "class": "text",
+      "id": "7D95E65C-4A01-4755-A90A-F91D0A0FBCA2"
     },
     {
       "class": "text",
@@ -94,6 +131,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

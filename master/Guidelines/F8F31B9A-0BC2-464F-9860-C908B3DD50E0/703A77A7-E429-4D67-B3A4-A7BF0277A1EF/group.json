@@ -4,6 +4,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -13,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1113,
-    "width": 384,
-    "x": 28,
-    "y": 745
+    "height": 1830,
+    "width": 388,
+    "x": 66,
+    "y": 805
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,

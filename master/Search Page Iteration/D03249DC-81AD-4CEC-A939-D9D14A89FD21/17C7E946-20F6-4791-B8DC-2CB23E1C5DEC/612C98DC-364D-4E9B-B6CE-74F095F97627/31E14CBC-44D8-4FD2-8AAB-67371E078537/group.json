@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "31E14CBC-44D8-4FD2-8AAB-67371E078537",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0E81456-69A8-4483-872B-457DA9AEF63C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2C41764-6511-43F5-A1F1-A5B10D2FBB23",
+    "height": 24,
+    "width": 95,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "39D43187-7219-42C2-9594-47A1E9B5ACAD"
+    },
+    {
+      "class": "text",
+      "id": "79B00995-7C78-4E45-9B3A-819987045110"
+    }
+  ],
+  "name": "badges/accession-label",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9986EEF2-2572-4850-BC45-BF0776CC19FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

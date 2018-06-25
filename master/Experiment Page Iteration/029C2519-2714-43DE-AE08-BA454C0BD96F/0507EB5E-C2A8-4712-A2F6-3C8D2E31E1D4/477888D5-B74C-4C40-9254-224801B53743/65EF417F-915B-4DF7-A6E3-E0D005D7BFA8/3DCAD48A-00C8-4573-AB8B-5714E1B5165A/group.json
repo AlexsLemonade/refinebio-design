@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "3DCAD48A-00C8-4573-AB8B-5714E1B5165A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D16D2750-555B-44F0-BE33-39E218F30AE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E6A59C8-9D5A-42E1-956C-88B6B446A3F6",
+    "height": 48,
+    "width": 1071,
+    "x": 0,
+    "y": 472
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DC54BC5C-C3BF-44BD-B3A6-766E2390BAC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE40E119-0928-40D4-A217-A964B61A60F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3742678-5A72-441F-B376-E055F3757AC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09677EDE-54D4-427F-9D89-98B0D6CEB11D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AF5C60E-A665-4727-A82B-D0AEAA6811A6"
+    }
+  ],
+  "name": "striped-row",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "250932E8-80B7-4EE9-AEFC-297E995CD8EF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

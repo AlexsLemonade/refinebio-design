@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1906,
-    "width": 436,
-    "x": -456,
+    "height": 3678,
+    "width": 517,
+    "x": -611,
     "y": 50
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -56,6 +66,42 @@
     {
       "class": "group",
       "id": "703A77A7-E429-4D67-B3A4-A7BF0277A1EF"
+    },
+    {
+      "class": "text",
+      "id": "CA678742-539F-4685-91F4-140565B0DD06"
+    },
+    {
+      "class": "group",
+      "id": "3BBD86FF-2582-4D35-B285-E61DE51B6499"
+    },
+    {
+      "class": "text",
+      "id": "D1ED1FDE-D772-4D0A-9D5C-4660EF07C5D2"
+    },
+    {
+      "class": "text",
+      "id": "B52F0573-D513-4137-8A78-BD6B490E7C8B"
+    },
+    {
+      "class": "text",
+      "id": "AC8283F9-7EE9-4588-B5B1-8A29045B6278"
+    },
+    {
+      "class": "group",
+      "id": "6E280A5C-3EAD-4E99-B277-FC7559529477"
+    },
+    {
+      "class": "group",
+      "id": "B8638B25-30B0-4D84-B2B7-8B10944F2482"
+    },
+    {
+      "class": "group",
+      "id": "C93F32F6-EE91-4213-8FC3-7CF08B0B7855"
+    },
+    {
+      "class": "group",
+      "id": "84CE1876-7349-421A-ABA3-37FC5759A8BB"
     }
   ],
   "name": "Color",
@@ -70,6 +116,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

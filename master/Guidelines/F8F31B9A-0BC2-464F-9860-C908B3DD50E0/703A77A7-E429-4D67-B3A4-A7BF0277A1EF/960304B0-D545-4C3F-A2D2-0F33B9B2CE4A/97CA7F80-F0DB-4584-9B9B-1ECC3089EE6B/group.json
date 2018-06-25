@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "97CA7F80-F0DB-4584-9B9B-1ECC3089EE6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81E5E748-9918-4537-8F9B-8F4FE8ECC92C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "493DF4E0-6567-416E-BC90-C46DD3F748DA",
+    "height": 60,
+    "width": 174,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3D4F2B2-D42A-474A-8AF8-2990EF583206"
+    },
+    {
+      "class": "text",
+      "id": "9E461DBE-851C-4E76-8E37-AAF6127A02C7"
+    },
+    {
+      "class": "text",
+      "id": "F801B726-6203-4E1F-BB7C-878092347177"
+    }
+  ],
+  "name": "60Percent",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "626BB280-57AC-4AF8-BC2C-D255E8D64FD8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

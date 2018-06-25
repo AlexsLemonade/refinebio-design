@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "8D364B1C-226C-49CF-ABB5-CA251CB395CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 1071,
+    "x": 0,
+    "y": 472
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9E880C49-23E7-4EE7-BFF4-3788C1D939AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5D025BC-2D9A-44E3-AF2B-76E046E7A7E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1659A1E9-2FC6-4F0B-8C0C-DA8714AD6544"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "510FD6E0-9DC4-4530-A820-789ABDA6AAD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8DFD5CD8-3346-4860-96B0-7221963977CD"
+    }
+  ],
+  "name": "striped-row",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

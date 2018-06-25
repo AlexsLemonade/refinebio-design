@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "12D93EA3-217A-4CB8-8C52-42B7F1C793FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 506,
+    "x": 467,
+    "y": 198
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "16548D6C-9373-4D57-849E-717B3745CB03"
+    },
+    {
+      "class": "text",
+      "id": "84A69755-31FB-4385-B721-57E80B003C6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1CD320DE-6F44-4312-A71C-C804C5249377"
+    },
+    {
+      "class": "text",
+      "id": "6F82A122-C5D5-4381-B3D4-0BF8FFAFDBFE"
+    }
+  ],
+  "name": "email-form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

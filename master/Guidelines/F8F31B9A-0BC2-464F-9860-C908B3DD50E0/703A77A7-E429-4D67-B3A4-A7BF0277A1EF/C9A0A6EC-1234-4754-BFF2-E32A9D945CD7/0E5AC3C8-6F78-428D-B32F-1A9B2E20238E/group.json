@@ -16,14 +16,14 @@
     "height": 60,
     "width": 174,
     "x": 0,
-    "y": 276
+    "y": 400
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,6 +36,10 @@
     {
       "class": "text",
       "id": "011167DB-44C8-4CEF-8654-7A5D9602151B"
+    },
+    {
+      "class": "group",
+      "id": "A6D79A7A-1B81-4D99-A4E8-C5E6B202185B"
     }
   ],
   "name": "20PercentDark",

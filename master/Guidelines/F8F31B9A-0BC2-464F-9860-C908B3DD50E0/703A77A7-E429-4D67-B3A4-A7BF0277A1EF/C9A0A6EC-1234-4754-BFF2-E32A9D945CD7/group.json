@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 336,
+    "height": 580,
     "width": 174,
-    "x": 210,
-    "y": 43
+    "x": 214,
+    "y": 529
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -28,6 +28,22 @@
     {
       "class": "group",
       "id": "A80A6135-A8CA-42F8-8A67-D5A526AE2918"
+    },
+    {
+      "class": "group",
+      "id": "7A0EE473-B317-406F-8307-6F587F43E473"
+    },
+    {
+      "class": "group",
+      "id": "3F1903EE-C821-4548-8992-0B42C2CD74C6"
+    },
+    {
+      "class": "group",
+      "id": "F7D0C382-D644-4ED1-9C3C-DF6A9BED96EA"
+    },
+    {
+      "class": "group",
+      "id": "DBA7750A-55EE-4149-B201-FB61631650A0"
     },
     {
       "class": "group",
@@ -44,6 +60,14 @@
     {
       "class": "group",
       "id": "0E5AC3C8-6F78-428D-B32F-1A9B2E20238E"
+    },
+    {
+      "class": "group",
+      "id": "B4A12C38-0CFA-4E2E-9654-8F2093B9761B"
+    },
+    {
+      "class": "group",
+      "id": "2782A0DF-DC13-47A5-A90D-45225F99BC45"
     }
   ],
   "name": "SocialBlue",

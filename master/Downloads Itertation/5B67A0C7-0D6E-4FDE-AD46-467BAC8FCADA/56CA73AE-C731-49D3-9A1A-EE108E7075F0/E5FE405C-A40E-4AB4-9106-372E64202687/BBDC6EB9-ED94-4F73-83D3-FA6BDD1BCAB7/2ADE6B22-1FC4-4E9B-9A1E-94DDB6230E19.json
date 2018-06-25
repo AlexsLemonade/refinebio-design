@@ -1,0 +1,84 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "2ADE6B22-1FC4-4E9B-9A1E-94DDB6230E19",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14.00000000000001,
+    "width": 65.00000000000004,
+    "x": 0,
+    "y": 0
+  },
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.98742825908718279, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.65619021590598547, 1.4894085244032873}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.98742825908718279, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.64471166985515149, 1.6711061278957866}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.076773635278522961}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.076773635278522961}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0040994807324399385, 0.71655392926618999}",
+      "curveMode": 2,
+      "curveTo": "{0.0040994807324399385, 0.71655392926618999}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.0040994807324399385, 0.71655392926618999}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.076386990981142877, 0.75941920896336113}",
+      "curveMode": 4,
+      "curveTo": "{0.0024596884394636528, 0.69224227809465899}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.65257589986742337}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
